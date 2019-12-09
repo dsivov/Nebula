@@ -1,0 +1,5426 @@
+{  
+"annotationResults": [
+    {
+      "inputUri": "/webui-static/media/videos/test.mp4/splits/SampleVideo_1280x720_5mb.mp4",
+      "segmentLabelAnnotations": [
+        {
+          "entity": {
+            "entityId": "/m/07j7r",
+            "description": "tree",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/05s2s",
+              "description": "plant",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "0s",
+                "endTimeOffset": "29.520s"
+              },
+              "confidence": 0.31196892261505127
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/0jbk",
+            "description": "animal",
+            "languageCode": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "0s",
+                "endTimeOffset": "29.520s"
+              },
+              "confidence": 0.8152464628219604
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/0c9ph5",
+            "description": "flower",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/05s2s",
+              "description": "plant",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "0s",
+                "endTimeOffset": "29.520s"
+              },
+              "confidence": 0.37217020988464355
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/05h0n",
+            "description": "nature",
+            "languageCode": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "0s",
+                "endTimeOffset": "29.520s"
+              },
+              "confidence": 0.48740845918655396
+            }
+          ]
+        }
+      ],
+      "shotLabelAnnotations": [
+        {
+          "entity": {
+            "entityId": "/m/05s2s",
+            "description": "plant",
+            "languageCode": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "25.760s",
+                "endTimeOffset": "27.800s"
+              },
+              "confidence": 0.38813072443008423
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/08t9c_",
+            "description": "grass",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/05s2s",
+              "description": "plant",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "0s",
+                "endTimeOffset": "8.360s"
+              },
+              "confidence": 0.41643834114074707
+            },
+            {
+              "segment": {
+                "startTimeOffset": "21.720s",
+                "endTimeOffset": "23.560s"
+              },
+              "confidence": 0.5989993810653687
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/06mf6",
+            "description": "rabbit",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/068hy",
+              "description": "pet",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "12.960s",
+                "endTimeOffset": "16.040s"
+              },
+              "confidence": 0.9927774667739868
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/0hcr",
+            "description": "animation",
+            "languageCode": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "0s",
+                "endTimeOffset": "8.360s"
+              },
+              "confidence": 0.4237101972103119
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/03bmqb",
+            "description": "flora",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/05s2s",
+              "description": "plant",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "25.760s",
+                "endTimeOffset": "27.800s"
+              },
+              "confidence": 0.3243013322353363
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/01c7cq",
+            "description": "grassland",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/043rvww",
+              "description": "geographical feature",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "21.720s",
+                "endTimeOffset": "23.560s"
+              },
+              "confidence": 0.7987038493156433
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/01gd91",
+            "description": "pasture",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/043rvww",
+              "description": "geographical feature",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "21.720s",
+                "endTimeOffset": "23.560s"
+              },
+              "confidence": 0.7532216310501099
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/0jbk",
+            "description": "animal",
+            "languageCode": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "0s",
+                "endTimeOffset": "8.360s"
+              },
+              "confidence": 0.9336585998535156
+            },
+            {
+              "segment": {
+                "startTimeOffset": "12.960s",
+                "endTimeOffset": "16.040s"
+              },
+              "confidence": 0.7796133756637573
+            },
+            {
+              "segment": {
+                "startTimeOffset": "21.720s",
+                "endTimeOffset": "23.560s"
+              },
+              "confidence": 0.9568819999694824
+            },
+            {
+              "segment": {
+                "startTimeOffset": "23.600s",
+                "endTimeOffset": "25.720s"
+              },
+              "confidence": 0.8232283592224121
+            },
+            {
+              "segment": {
+                "startTimeOffset": "27.840s",
+                "endTimeOffset": "29.520s"
+              },
+              "confidence": 0.9336585998535156
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/019dxh",
+            "description": "rabits and hares",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/04rky",
+              "description": "mammal",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "12.960s",
+                "endTimeOffset": "16.040s"
+              },
+              "confidence": 0.37589240074157715
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/01bqvp",
+            "description": "sky",
+            "languageCode": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "8.400s",
+                "endTimeOffset": "12.920s"
+              },
+              "confidence": 0.8144432306289673
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/0cx37",
+            "description": "hare",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/04rky",
+              "description": "mammal",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "12.960s",
+                "endTimeOffset": "16.040s"
+              },
+              "confidence": 0.7509928941726685
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/05h0n",
+            "description": "nature",
+            "languageCode": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "0s",
+                "endTimeOffset": "8.360s"
+              },
+              "confidence": 0.7514047622680664
+            },
+            {
+              "segment": {
+                "startTimeOffset": "8.400s",
+                "endTimeOffset": "12.920s"
+              },
+              "confidence": 0.8086859583854675
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/025st_8",
+            "description": "meadow",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/043rvww",
+              "description": "geographical feature",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "21.720s",
+                "endTimeOffset": "23.560s"
+              },
+              "confidence": 0.7846535444259644
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/0cpfn",
+            "description": "easter bunny",
+            "languageCode": "en-US"
+          },
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "12.960s",
+                "endTimeOffset": "16.040s"
+              },
+              "confidence": 0.38990896940231323
+            }
+          ]
+        },
+        {
+          "entity": {
+            "entityId": "/m/0c9ph5",
+            "description": "flower",
+            "languageCode": "en-US"
+          },
+          "categoryEntities": [
+            {
+              "entityId": "/m/05s2s",
+              "description": "plant",
+              "languageCode": "en-US"
+            }
+          ],
+          "segments": [
+            {
+              "segment": {
+                "startTimeOffset": "16.080s",
+                "endTimeOffset": "21.680s"
+              },
+              "confidence": 0.36397600173950195
+            },
+            {
+              "segment": {
+                "startTimeOffset": "25.760s",
+                "endTimeOffset": "27.800s"
+              },
+              "confidence": 0.623416006565094
+            },
+            {
+              "segment": {
+                "startTimeOffset": "27.840s",
+                "endTimeOffset": "29.520s"
+              },
+              "confidence": 0.5141963362693787
+            }
+          ]
+        }
+      ],
+      "shotAnnotations": [
+        {
+          "startTimeOffset": "0s",
+          "endTimeOffset": "8.360s"
+        },
+        {
+          "startTimeOffset": "8.400s",
+          "endTimeOffset": "12.920s"
+        },
+        {
+          "startTimeOffset": "12.960s",
+          "endTimeOffset": "16.040s"
+        },
+        {
+          "startTimeOffset": "16.080s",
+          "endTimeOffset": "21.680s"
+        },
+        {
+          "startTimeOffset": "21.720s",
+          "endTimeOffset": "23.560s"
+        },
+        {
+          "startTimeOffset": "23.600s",
+          "endTimeOffset": "25.720s"
+        },
+        {
+          "startTimeOffset": "25.760s",
+          "endTimeOffset": "27.800s"
+        },
+        {
+          "startTimeOffset": "27.840s",
+          "endTimeOffset": "29.520s"
+        }
+      ],
+      "segment": {
+        "startTimeOffset": "0s",
+        "endTimeOffset": "29.520s"
+      },
+      "objectAnnotations": [
+        {
+          "entity": {
+            "entityId": "/m/0jbk",
+            "description": "animal",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.05630800127983093,
+                "top": 0.3143138587474823,
+                "right": 0.4111098349094391,
+                "bottom": 0.7881072759628296
+              },
+              "timeOffset": "0s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.06382191181182861,
+                "top": 0.32452628016471863,
+                "right": 0.411299467086792,
+                "bottom": 0.7829740047454834
+              },
+              "timeOffset": "0.120s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.08259429037570953,
+                "top": 0.3425289988517761,
+                "right": 0.41950589418411255,
+                "bottom": 0.7850892543792725
+              },
+              "timeOffset": "0.240s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.08581765741109848,
+                "top": 0.33865049481391907,
+                "right": 0.4391077160835266,
+                "bottom": 0.7741217613220215
+              },
+              "timeOffset": "0.360s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.07608943432569504,
+                "top": 0.30883029103279114,
+                "right": 0.45188283920288086,
+                "bottom": 0.7828595638275146
+              },
+              "timeOffset": "0.480s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0737367644906044,
+                "top": 0.24956022202968597,
+                "right": 0.4503026008605957,
+                "bottom": 0.7944628000259399
+              },
+              "timeOffset": "0.600s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.09054640680551529,
+                "top": 0.20596924424171448,
+                "right": 0.4550180733203888,
+                "bottom": 0.792466402053833
+              },
+              "timeOffset": "0.720s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.09134069830179214,
+                "top": 0.17647230625152588,
+                "right": 0.46288594603538513,
+                "bottom": 0.8085683584213257
+              },
+              "timeOffset": "0.840s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.11306972056627274,
+                "top": 0.2177647352218628,
+                "right": 0.45882824063301086,
+                "bottom": 0.7989507913589478
+              },
+              "timeOffset": "0.960s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0909929946064949,
+                "top": 0.24235379695892334,
+                "right": 0.4923267662525177,
+                "bottom": 0.8152023553848267
+              },
+              "timeOffset": "1.080s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.11016614735126495,
+                "top": 0.23961256444454193,
+                "right": 0.5100286602973938,
+                "bottom": 0.8402364253997803
+              },
+              "timeOffset": "1.200s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.113986074924469,
+                "top": 0.22656169533729553,
+                "right": 0.5238305926322937,
+                "bottom": 0.8461850881576538
+              },
+              "timeOffset": "1.320s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.12698054313659668,
+                "top": 0.1910599321126938,
+                "right": 0.538512110710144,
+                "bottom": 0.857501745223999
+              },
+              "timeOffset": "1.440s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.09051909297704697,
+                "top": 0.10015635192394257,
+                "right": 0.563193678855896,
+                "bottom": 0.8694433569908142
+              },
+              "timeOffset": "1.560s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.15225720405578613,
+                "top": 0.04165221378207207,
+                "right": 0.5300993919372559,
+                "bottom": 0.8629680871963501
+              },
+              "timeOffset": "1.680s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.1759452074766159,
+                "top": 0.02609064243733883,
+                "right": 0.5241090059280396,
+                "bottom": 0.8500797152519226
+              },
+              "timeOffset": "1.800s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.18335184454917908,
+                "top": 0.02606726624071598,
+                "right": 0.5104030966758728,
+                "bottom": 0.8426896929740906
+              },
+              "timeOffset": "1.920s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.17468535900115967,
+                "top": 0.03734494373202324,
+                "right": 0.514066219329834,
+                "bottom": 0.8491584062576294
+              },
+              "timeOffset": "2.040s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.16172949969768524,
+                "top": 0.04237329959869385,
+                "right": 0.5214630961418152,
+                "bottom": 0.8597993850708008
+              },
+              "timeOffset": "2.160s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.14745892584323883,
+                "top": 0.05631609633564949,
+                "right": 0.5164287686347961,
+                "bottom": 0.8619177341461182
+              },
+              "timeOffset": "2.280s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.14160971343517303,
+                "top": 0.06232013553380966,
+                "right": 0.5242590308189392,
+                "bottom": 0.8726383447647095
+              },
+              "timeOffset": "2.400s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.131648987531662,
+                "top": 0.07068577408790588,
+                "right": 0.5188074707984924,
+                "bottom": 0.8697819709777832
+              },
+              "timeOffset": "2.520s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.12524938583374023,
+                "top": 0.07739683985710144,
+                "right": 0.5157215595245361,
+                "bottom": 0.8673195838928223
+              },
+              "timeOffset": "2.640s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.12232015281915665,
+                "top": 0.08133085817098618,
+                "right": 0.5144314765930176,
+                "bottom": 0.8715881705284119
+              },
+              "timeOffset": "2.760s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.12187531590461731,
+                "top": 0.07169491052627563,
+                "right": 0.5104345083236694,
+                "bottom": 0.8753623962402344
+              },
+              "timeOffset": "2.880s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.11736990511417389,
+                "top": 0.06865885108709335,
+                "right": 0.5111215710639954,
+                "bottom": 0.8726274371147156
+              },
+              "timeOffset": "3s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.11705965548753738,
+                "top": 0.062402158975601196,
+                "right": 0.508223295211792,
+                "bottom": 0.8777421712875366
+              },
+              "timeOffset": "3.120s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.11308793723583221,
+                "top": 0.058047279715538025,
+                "right": 0.5084996223449707,
+                "bottom": 0.8822193145751953
+              },
+              "timeOffset": "3.240s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.11236292868852615,
+                "top": 0.06536994129419327,
+                "right": 0.511328935623169,
+                "bottom": 0.8788169026374817
+              },
+              "timeOffset": "3.360s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.11182376742362976,
+                "top": 0.05689531937241554,
+                "right": 0.5099548101425171,
+                "bottom": 0.882669985294342
+              },
+              "timeOffset": "3.480s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.11291840672492981,
+                "top": 0.054421670734882355,
+                "right": 0.5080183148384094,
+                "bottom": 0.8837292790412903
+              },
+              "timeOffset": "3.600s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.11127342283725739,
+                "top": 0.05809764191508293,
+                "right": 0.5094081163406372,
+                "bottom": 0.8827540874481201
+              },
+              "timeOffset": "3.720s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.11225837469100952,
+                "top": 0.0648500919342041,
+                "right": 0.512769341468811,
+                "bottom": 0.876514732837677
+              },
+              "timeOffset": "3.840s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.11264251172542572,
+                "top": 0.07951376587152481,
+                "right": 0.5097361207008362,
+                "bottom": 0.8740583658218384
+              },
+              "timeOffset": "3.960s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.12005926668643951,
+                "top": 0.08947227150201797,
+                "right": 0.5077954530715942,
+                "bottom": 0.8767531514167786
+              },
+              "timeOffset": "4.080s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.14911580085754395,
+                "top": 0.09159106016159058,
+                "right": 0.5130953192710876,
+                "bottom": 0.8825656175613403
+              },
+              "timeOffset": "4.200s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2100541740655899,
+                "top": 0.06953835487365723,
+                "right": 0.5084218978881836,
+                "bottom": 0.8870883584022522
+              },
+              "timeOffset": "4.320s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.22410158812999725,
+                "top": 0.07634617388248444,
+                "right": 0.5127763748168945,
+                "bottom": 0.8812291026115417
+              },
+              "timeOffset": "4.440s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2194850891828537,
+                "top": 0.08989272266626358,
+                "right": 0.5088648796081543,
+                "bottom": 0.8765610456466675
+              },
+              "timeOffset": "4.560s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.21571247279644012,
+                "top": 0.13340048491954803,
+                "right": 0.49905258417129517,
+                "bottom": 0.8710554838180542
+              },
+              "timeOffset": "4.680s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.20536267757415771,
+                "top": 0.1386139839887619,
+                "right": 0.49990251660346985,
+                "bottom": 0.8832669854164124
+              },
+              "timeOffset": "4.800s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2082938849925995,
+                "top": 0.14777256548404694,
+                "right": 0.4927270710468292,
+                "bottom": 0.8839409351348877
+              },
+              "timeOffset": "4.920s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.20645801723003387,
+                "top": 0.14774605631828308,
+                "right": 0.49155306816101074,
+                "bottom": 0.8872663974761963
+              },
+              "timeOffset": "5.040s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.20773544907569885,
+                "top": 0.1379116177558899,
+                "right": 0.48833540081977844,
+                "bottom": 0.8897206783294678
+              },
+              "timeOffset": "5.160s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2110033929347992,
+                "top": 0.14528758823871613,
+                "right": 0.48454153537750244,
+                "bottom": 0.8840929269790649
+              },
+              "timeOffset": "5.280s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2073328197002411,
+                "top": 0.1487336903810501,
+                "right": 0.5021430253982544,
+                "bottom": 0.8810456991195679
+              },
+              "timeOffset": "5.400s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.21043747663497925,
+                "top": 0.16132499277591705,
+                "right": 0.520984947681427,
+                "bottom": 0.8790003657341003
+              },
+              "timeOffset": "5.520s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.21957725286483765,
+                "top": 0.1356717199087143,
+                "right": 0.5087367296218872,
+                "bottom": 0.8866613507270813
+              },
+              "timeOffset": "5.640s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.21565407514572144,
+                "top": 0.12729336321353912,
+                "right": 0.51576828956604,
+                "bottom": 0.8808764219284058
+              },
+              "timeOffset": "5.760s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.21538931131362915,
+                "top": 0.12759946286678314,
+                "right": 0.5198700428009033,
+                "bottom": 0.8788245916366577
+              },
+              "timeOffset": "5.880s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.21678860485553741,
+                "top": 0.13373538851737976,
+                "right": 0.5171210169792175,
+                "bottom": 0.8801548480987549
+              },
+              "timeOffset": "6s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.21913473308086395,
+                "top": 0.1338128298521042,
+                "right": 0.5154046416282654,
+                "bottom": 0.8812812566757202
+              },
+              "timeOffset": "6.120s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2200903743505478,
+                "top": 0.14680828154087067,
+                "right": 0.5215766429901123,
+                "bottom": 0.8765243887901306
+              },
+              "timeOffset": "6.240s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2248895764350891,
+                "top": 0.1502319574356079,
+                "right": 0.5260425209999084,
+                "bottom": 0.8815696835517883
+              },
+              "timeOffset": "6.360s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2383067011833191,
+                "top": 0.16911998391151428,
+                "right": 0.5298217535018921,
+                "bottom": 0.8803194761276245
+              },
+              "timeOffset": "6.480s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.25974082946777344,
+                "top": 0.1268545389175415,
+                "right": 0.5349623560905457,
+                "bottom": 0.9079524874687195
+              },
+              "timeOffset": "6.600s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.26993846893310547,
+                "top": 0.1028449758887291,
+                "right": 0.5573626160621643,
+                "bottom": 0.9260475635528564
+              },
+              "timeOffset": "6.720s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.29307207465171814,
+                "top": 0.11388742178678513,
+                "right": 0.5701773166656494,
+                "bottom": 0.9330590963363647
+              },
+              "timeOffset": "6.840s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.31591400504112244,
+                "top": 0.11367779970169067,
+                "right": 0.5823002457618713,
+                "bottom": 0.9356854557991028
+              },
+              "timeOffset": "6.960s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3322107195854187,
+                "top": 0.07992489635944366,
+                "right": 0.611471951007843,
+                "bottom": 0.9425529837608337
+              },
+              "timeOffset": "7.080s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3550574779510498,
+                "top": 0.06358518451452255,
+                "right": 0.6595698595046997,
+                "bottom": 0.9490811228752136
+              },
+              "timeOffset": "7.200s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3752900958061218,
+                "top": 0.0793929174542427,
+                "right": 0.6937833428382874,
+                "bottom": 0.9615204930305481
+              },
+              "timeOffset": "7.320s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.4049249589443207,
+                "top": 0.10801664739847183,
+                "right": 0.7115050554275513,
+                "bottom": 0.9773795008659363
+              },
+              "timeOffset": "7.440s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.43944934010505676,
+                "top": 0.10511729121208191,
+                "right": 0.7524052858352661,
+                "bottom": 0.9910281896591187
+              },
+              "timeOffset": "7.560s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.4878462255001068,
+                "top": 0.14148874580860138,
+                "right": 0.8004153966903687,
+                "bottom": 0.9858431816101074
+              },
+              "timeOffset": "7.680s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.5170830488204956,
+                "top": 0.09813682734966278,
+                "right": 0.8480837941169739,
+                "bottom": 1.0012743473052979
+              },
+              "timeOffset": "7.800s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.5546347498893738,
+                "top": 0.06936316192150116,
+                "right": 0.8841412663459778,
+                "bottom": 1.0020878314971924
+              },
+              "timeOffset": "7.920s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.5862855315208435,
+                "top": 0.05287996679544449,
+                "right": 0.9161643981933594,
+                "bottom": 0.9948931336402893
+              },
+              "timeOffset": "8.040s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.6051183938980103,
+                "top": 0.08026483654975891,
+                "right": 0.9486520886421204,
+                "bottom": 0.9830714464187622
+              },
+              "timeOffset": "8.160s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.6253319382667542,
+                "top": 0.08581329882144928,
+                "right": 0.9767916202545166,
+                "bottom": 0.9835323095321655
+              },
+              "timeOffset": "8.280s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "0s",
+            "endTimeOffset": "8.280s"
+          },
+          "confidence": 0.7534071803092957
+        },
+        {
+          "entity": {
+            "entityId": "/m/01g317",
+            "description": "person",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.10650096088647842,
+                "top": 0.0305051039904356,
+                "right": 0.4901908040046692,
+                "bottom": 0.8814874291419983
+              },
+              "timeOffset": "2.520s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.10703044384717941,
+                "top": 0.03194224461913109,
+                "right": 0.490624338388443,
+                "bottom": 0.8819438219070435
+              },
+              "timeOffset": "2.640s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.1070319414138794,
+                "top": 0.03329655900597572,
+                "right": 0.49062567949295044,
+                "bottom": 0.8832967281341553
+              },
+              "timeOffset": "2.760s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.1070340946316719,
+                "top": 0.03461245447397232,
+                "right": 0.49062782526016235,
+                "bottom": 0.8846126198768616
+              },
+              "timeOffset": "2.880s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.10703624039888382,
+                "top": 0.035928353667259216,
+                "right": 0.49062997102737427,
+                "bottom": 0.8859285116195679
+              },
+              "timeOffset": "3s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.10703839361667633,
+                "top": 0.037244249135255814,
+                "right": 0.4906321167945862,
+                "bottom": 0.8872444033622742
+              },
+              "timeOffset": "3.120s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.09585166722536087,
+                "top": 0.05373771861195564,
+                "right": 0.5095076560974121,
+                "bottom": 0.9101414084434509
+              },
+              "timeOffset": "3.240s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.09576842188835144,
+                "top": 0.056138113141059875,
+                "right": 0.5098018050193787,
+                "bottom": 0.9117543697357178
+              },
+              "timeOffset": "3.360s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.09573442488908768,
+                "top": 0.05751775577664375,
+                "right": 0.5097948312759399,
+                "bottom": 0.9130776524543762
+              },
+              "timeOffset": "3.480s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.09909415990114212,
+                "top": 0.0479094535112381,
+                "right": 0.5276455283164978,
+                "bottom": 0.896133542060852
+              },
+              "timeOffset": "3.600s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.10536014288663864,
+                "top": 0.04084122180938721,
+                "right": 0.5342409610748291,
+                "bottom": 0.8881351947784424
+              },
+              "timeOffset": "3.720s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.10859666764736176,
+                "top": 0.03906051442027092,
+                "right": 0.5375010967254639,
+                "bottom": 0.8862878680229187
+              },
+              "timeOffset": "3.840s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.12097965180873871,
+                "top": 0.04097592085599899,
+                "right": 0.505766749382019,
+                "bottom": 0.891132116317749
+              },
+              "timeOffset": "3.960s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.11675555258989334,
+                "top": 0.046077046543359756,
+                "right": 0.4982597231864929,
+                "bottom": 0.8960883021354675
+              },
+              "timeOffset": "4.080s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.1156383827328682,
+                "top": 0.05661396682262421,
+                "right": 0.4969066083431244,
+                "bottom": 0.9066148400306702
+              },
+              "timeOffset": "4.200s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "2.520s",
+            "endTimeOffset": "4.200s"
+          },
+          "confidence": 0.8143754601478577
+        },
+        {
+          "entity": {
+            "entityId": "/m/01g317",
+            "description": "person",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.21753479540348053,
+                "top": 0.13854029774665833,
+                "right": 0.49871110916137695,
+                "bottom": 0.8700902462005615
+              },
+              "timeOffset": "6.120s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.22030828893184662,
+                "top": 0.14166191220283508,
+                "right": 0.5007781386375427,
+                "bottom": 0.8722189664840698
+              },
+              "timeOffset": "6.240s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.22639459371566772,
+                "top": 0.14437204599380493,
+                "right": 0.5068634748458862,
+                "bottom": 0.8749276995658875
+              },
+              "timeOffset": "6.360s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.23230798542499542,
+                "top": 0.14700713753700256,
+                "right": 0.5127768516540527,
+                "bottom": 0.8775627613067627
+              },
+              "timeOffset": "6.480s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.23822136223316193,
+                "top": 0.1496422290802002,
+                "right": 0.5186902284622192,
+                "bottom": 0.8801978826522827
+              },
+              "timeOffset": "6.600s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.24413473904132843,
+                "top": 0.15227733552455902,
+                "right": 0.5246036052703857,
+                "bottom": 0.8828330039978027
+              },
+              "timeOffset": "6.720s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.25004813075065613,
+                "top": 0.15491242706775665,
+                "right": 0.5305169820785522,
+                "bottom": 0.885468065738678
+              },
+              "timeOffset": "6.840s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.25596150755882263,
+                "top": 0.15754751861095428,
+                "right": 0.5364303588867188,
+                "bottom": 0.888103187084198
+              },
+              "timeOffset": "6.960s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.26187488436698914,
+                "top": 0.16018261015415192,
+                "right": 0.5423437356948853,
+                "bottom": 0.8907382488250732
+              },
+              "timeOffset": "7.080s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.35891640186309814,
+                "top": 0.11937940865755081,
+                "right": 0.6506489515304565,
+                "bottom": 0.9447570443153381
+              },
+              "timeOffset": "7.200s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.375764399766922,
+                "top": 0.12139130383729935,
+                "right": 0.6671943664550781,
+                "bottom": 0.9477065801620483
+              },
+              "timeOffset": "7.320s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.4099404811859131,
+                "top": 0.1488201767206192,
+                "right": 0.7013484239578247,
+                "bottom": 0.9752037525177002
+              },
+              "timeOffset": "7.440s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.43599262833595276,
+                "top": 0.1634071171283722,
+                "right": 0.727400541305542,
+                "bottom": 0.989790678024292
+              },
+              "timeOffset": "7.560s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.4620448052883148,
+                "top": 0.17799407243728638,
+                "right": 0.7534527778625488,
+                "bottom": 1.0043776035308838
+              },
+              "timeOffset": "7.680s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.4880969524383545,
+                "top": 0.19258102774620056,
+                "right": 0.7795048952102661,
+                "bottom": 1.0189646482467651
+              },
+              "timeOffset": "7.800s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.5506322383880615,
+                "top": 0.11732666194438934,
+                "right": 0.8761528134346008,
+                "bottom": 0.9798040390014648
+              },
+              "timeOffset": "7.920s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.5807273983955383,
+                "top": 0.13817432522773743,
+                "right": 0.9064898490905762,
+                "bottom": 0.9890733957290649
+              },
+              "timeOffset": "8.040s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.6179916858673096,
+                "top": 0.19352103769779205,
+                "right": 0.9437716007232666,
+                "bottom": 0.9868447780609131
+              },
+              "timeOffset": "8.160s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "6.120s",
+            "endTimeOffset": "8.160s"
+          },
+          "confidence": 0.7884821891784668
+        },
+        {
+          "entity": {
+            "entityId": "/m/0jbk",
+            "description": "animal",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.08512219786643982,
+                "top": 0.3889400362968445,
+                "right": 0.22000905871391296,
+                "bottom": 0.7799281477928162
+              },
+              "timeOffset": "7.440s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.06910569965839386,
+                "top": 0.5841320157051086,
+                "right": 0.20578989386558533,
+                "bottom": 0.7907587289810181
+              },
+              "timeOffset": "7.560s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.06908927857875824,
+                "top": 0.5838841795921326,
+                "right": 0.20577172935009003,
+                "bottom": 0.7925050854682922
+              },
+              "timeOffset": "7.680s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "7.440s",
+            "endTimeOffset": "7.680s"
+          },
+          "confidence": 0.6751742959022522
+        },
+        {
+          "entity": {
+            "entityId": "/m/01g317",
+            "description": "person",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.442428857088089,
+                "top": 0.8482162952423096,
+                "right": 0.6053005456924438,
+                "bottom": 0.9889047741889954
+              },
+              "timeOffset": "9.360s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.4359472990036011,
+                "top": 0.802846372127533,
+                "right": 0.598447859287262,
+                "bottom": 0.9431247711181641
+              },
+              "timeOffset": "9.480s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.4192107617855072,
+                "top": 0.7540801763534546,
+                "right": 0.5817108154296875,
+                "bottom": 0.8943579792976379
+              },
+              "timeOffset": "9.600s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.33102235198020935,
+                "top": 0.6888864636421204,
+                "right": 0.6649415493011475,
+                "bottom": 0.9769355058670044
+              },
+              "timeOffset": "9.720s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3188694715499878,
+                "top": 0.665395200252533,
+                "right": 0.6646915674209595,
+                "bottom": 0.9631478786468506
+              },
+              "timeOffset": "9.840s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3144274950027466,
+                "top": 0.6272578835487366,
+                "right": 0.6612265110015869,
+                "bottom": 0.925806999206543
+              },
+              "timeOffset": "9.960s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.18480713665485382,
+                "top": 0.525439441204071,
+                "right": 0.764220118522644,
+                "bottom": 0.988412082195282
+              },
+              "timeOffset": "10.080s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.1701950877904892,
+                "top": 0.49450093507766724,
+                "right": 0.7656843066215515,
+                "bottom": 0.9685463905334473
+              },
+              "timeOffset": "10.200s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.16943508386611938,
+                "top": 0.4654584527015686,
+                "right": 0.76621013879776,
+                "bottom": 0.9403896331787109
+              },
+              "timeOffset": "10.320s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.158178448677063,
+                "top": 0.3983379304409027,
+                "right": 0.7780550122261047,
+                "bottom": 0.9779340028762817
+              },
+              "timeOffset": "10.440s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.15866035223007202,
+                "top": 0.382454514503479,
+                "right": 0.7796658277511597,
+                "bottom": 0.9693812131881714
+              },
+              "timeOffset": "10.560s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.15925484895706177,
+                "top": 0.366011381149292,
+                "right": 0.7803422808647156,
+                "bottom": 0.9534701704978943
+              },
+              "timeOffset": "10.680s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.15695098042488098,
+                "top": 0.296504944562912,
+                "right": 0.8082391023635864,
+                "bottom": 0.9840918779373169
+              },
+              "timeOffset": "10.800s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.16343630850315094,
+                "top": 0.2798523008823395,
+                "right": 0.8164249658584595,
+                "bottom": 0.973787784576416
+              },
+              "timeOffset": "10.920s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.16736456751823425,
+                "top": 0.2678340673446655,
+                "right": 0.8204797506332397,
+                "bottom": 0.9622418880462646
+              },
+              "timeOffset": "11.040s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2260810136795044,
+                "top": 0.2647072672843933,
+                "right": 0.7941129207611084,
+                "bottom": 0.9706364870071411
+              },
+              "timeOffset": "11.160s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.23725108802318573,
+                "top": 0.268871545791626,
+                "right": 0.7987002730369568,
+                "bottom": 0.9744540452957153
+              },
+              "timeOffset": "11.280s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.23932158946990967,
+                "top": 0.2717241644859314,
+                "right": 0.8002958297729492,
+                "bottom": 0.9772816300392151
+              },
+              "timeOffset": "11.400s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.23519591987133026,
+                "top": 0.2643130421638489,
+                "right": 0.8099833130836487,
+                "bottom": 0.9914647340774536
+              },
+              "timeOffset": "11.520s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.23507273197174072,
+                "top": 0.2654249668121338,
+                "right": 0.8107820153236389,
+                "bottom": 0.9931574463844299
+              },
+              "timeOffset": "11.640s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.23434382677078247,
+                "top": 0.2659398317337036,
+                "right": 0.8101198673248291,
+                "bottom": 0.9937143325805664
+              },
+              "timeOffset": "11.760s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2343675196170807,
+                "top": 0.2777010500431061,
+                "right": 0.8109993934631348,
+                "bottom": 0.9862350225448608
+              },
+              "timeOffset": "11.880s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2342413365840912,
+                "top": 0.2794498801231384,
+                "right": 0.8108087778091431,
+                "bottom": 0.9865075945854187
+              },
+              "timeOffset": "12s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.23401670157909393,
+                "top": 0.2798183560371399,
+                "right": 0.8105795979499817,
+                "bottom": 0.9867709279060364
+              },
+              "timeOffset": "12.120s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2371838092803955,
+                "top": 0.27324846386909485,
+                "right": 0.8083350658416748,
+                "bottom": 0.9853454828262329
+              },
+              "timeOffset": "12.240s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2376238852739334,
+                "top": 0.26980718970298767,
+                "right": 0.8079966902732849,
+                "bottom": 0.9809892177581787
+              },
+              "timeOffset": "12.360s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.238565593957901,
+                "top": 0.2686251103878021,
+                "right": 0.808882474899292,
+                "bottom": 0.9797413349151611
+              },
+              "timeOffset": "12.480s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2323640137910843,
+                "top": 0.2709272801876068,
+                "right": 0.8094794750213623,
+                "bottom": 0.9817382097244263
+              },
+              "timeOffset": "12.600s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.230809286236763,
+                "top": 0.2726672887802124,
+                "right": 0.8081366419792175,
+                "bottom": 0.9824676513671875
+              },
+              "timeOffset": "12.720s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.23060061037540436,
+                "top": 0.2742699980735779,
+                "right": 0.8079431653022766,
+                "bottom": 0.9839978218078613
+              },
+              "timeOffset": "12.840s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "9.360s",
+            "endTimeOffset": "12.840s"
+          },
+          "confidence": 0.954230785369873
+        },
+        {
+          "entity": {
+            "entityId": "/m/015p6",
+            "description": "bird",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.4328765273094177,
+                "top": 0.8502057194709778,
+                "right": 0.6083870530128479,
+                "bottom": 1.0
+              },
+              "timeOffset": "9.360s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.40491384267807007,
+                "top": 0.7910534143447876,
+                "right": 0.6140449047088623,
+                "bottom": 0.9999983310699463
+              },
+              "timeOffset": "9.480s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.35695400834083557,
+                "top": 0.7446278929710388,
+                "right": 0.6481896638870239,
+                "bottom": 0.9965736865997314
+              },
+              "timeOffset": "9.600s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3274715840816498,
+                "top": 0.6991659998893738,
+                "right": 0.6737303733825684,
+                "bottom": 0.9971794486045837
+              },
+              "timeOffset": "9.720s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.32359370589256287,
+                "top": 0.6760040521621704,
+                "right": 0.6698524951934814,
+                "bottom": 0.9740175008773804
+              },
+              "timeOffset": "9.840s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.31971585750579834,
+                "top": 0.652842104434967,
+                "right": 0.6659746170043945,
+                "bottom": 0.950855553150177
+              },
+              "timeOffset": "9.960s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.17269623279571533,
+                "top": 0.5373914837837219,
+                "right": 0.7652656435966492,
+                "bottom": 0.9978466629981995
+              },
+              "timeOffset": "10.080s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.16281235218048096,
+                "top": 0.5109035968780518,
+                "right": 0.7553817629814148,
+                "bottom": 0.9713587760925293
+              },
+              "timeOffset": "10.200s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.1529284566640854,
+                "top": 0.4844157099723816,
+                "right": 0.7454978823661804,
+                "bottom": 0.9448708891868591
+              },
+              "timeOffset": "10.320s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.14304456114768982,
+                "top": 0.4579278230667114,
+                "right": 0.7356139421463013,
+                "bottom": 0.918383002281189
+              },
+              "timeOffset": "10.440s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.13316066563129425,
+                "top": 0.43143993616104126,
+                "right": 0.7257300615310669,
+                "bottom": 0.8918951153755188
+              },
+              "timeOffset": "10.560s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.14871308207511902,
+                "top": 0.34690141677856445,
+                "right": 0.8099366426467896,
+                "bottom": 0.9921183586120605
+              },
+              "timeOffset": "10.680s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.1597575545310974,
+                "top": 0.32365351915359497,
+                "right": 0.8165812492370605,
+                "bottom": 0.9920426607131958
+              },
+              "timeOffset": "10.800s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.18834462761878967,
+                "top": 0.30793532729148865,
+                "right": 0.8108177185058594,
+                "bottom": 0.9913394451141357
+              },
+              "timeOffset": "10.920s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.21631768345832825,
+                "top": 0.3032565712928772,
+                "right": 0.8056923151016235,
+                "bottom": 0.9892839193344116
+              },
+              "timeOffset": "11.040s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.22802232205867767,
+                "top": 0.2997174859046936,
+                "right": 0.8057336807250977,
+                "bottom": 0.9908125400543213
+              },
+              "timeOffset": "11.160s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.22972364723682404,
+                "top": 0.289472371339798,
+                "right": 0.8077629208564758,
+                "bottom": 0.9972492456436157
+              },
+              "timeOffset": "11.280s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2358340173959732,
+                "top": 0.2966114580631256,
+                "right": 0.8027970790863037,
+                "bottom": 0.9918479919433594
+              },
+              "timeOffset": "11.400s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.23291738331317902,
+                "top": 0.289511114358902,
+                "right": 0.8013837933540344,
+                "bottom": 0.996772289276123
+              },
+              "timeOffset": "11.520s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.23059742152690887,
+                "top": 0.29225510358810425,
+                "right": 0.7998422384262085,
+                "bottom": 0.9958932995796204
+              },
+              "timeOffset": "11.640s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.22863522171974182,
+                "top": 0.2915157973766327,
+                "right": 0.7986844778060913,
+                "bottom": 0.9988614320755005
+              },
+              "timeOffset": "11.760s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2291048914194107,
+                "top": 0.29607388377189636,
+                "right": 0.7975320816040039,
+                "bottom": 0.9959819316864014
+              },
+              "timeOffset": "11.880s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.22742554545402527,
+                "top": 0.2949709892272949,
+                "right": 0.7976341247558594,
+                "bottom": 0.9970826506614685
+              },
+              "timeOffset": "12s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.23847709596157074,
+                "top": 0.29453104734420776,
+                "right": 0.7941095232963562,
+                "bottom": 0.9941317439079285
+              },
+              "timeOffset": "12.120s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.23220302164554596,
+                "top": 0.2927398979663849,
+                "right": 0.7985645532608032,
+                "bottom": 0.9976775646209717
+              },
+              "timeOffset": "12.240s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2379285842180252,
+                "top": 0.291075199842453,
+                "right": 0.7997998595237732,
+                "bottom": 0.9961462020874023
+              },
+              "timeOffset": "12.360s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2391732782125473,
+                "top": 0.28727030754089355,
+                "right": 0.8027369976043701,
+                "bottom": 0.9952998757362366
+              },
+              "timeOffset": "12.480s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.24204128980636597,
+                "top": 0.2850711941719055,
+                "right": 0.8076419830322266,
+                "bottom": 0.9942393898963928
+              },
+              "timeOffset": "12.600s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.24395936727523804,
+                "top": 0.2816818952560425,
+                "right": 0.8112005591392517,
+                "bottom": 0.9954431056976318
+              },
+              "timeOffset": "12.720s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.24426667392253876,
+                "top": 0.28328177332878113,
+                "right": 0.8125943541526794,
+                "bottom": 0.9954473972320557
+              },
+              "timeOffset": "12.840s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "9.360s",
+            "endTimeOffset": "12.840s"
+          },
+          "confidence": 0.7011796236038208
+        },
+        {
+          "entity": {
+            "entityId": "/m/02dl1y",
+            "description": "hat",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.14771682024002075,
+                "top": 0.4846527874469757,
+                "right": 0.7826774716377258,
+                "bottom": 0.9962259531021118
+              },
+              "timeOffset": "10.200s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "10.200s",
+            "endTimeOffset": "10.200s"
+          },
+          "confidence": 0.649856448173523
+        },
+        {
+          "entity": {
+            "entityId": "/m/017ftj",
+            "description": "sunglasses",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.5088804960250854,
+                "top": 0.2971038222312927,
+                "right": 0.6106377840042114,
+                "bottom": 0.40148282051086426
+              },
+              "timeOffset": "11.520s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "11.520s",
+            "endTimeOffset": "11.520s"
+          },
+          "confidence": 0.7003539800643921
+        },
+        {
+          "entity": {
+            "entityId": "/m/01g317",
+            "description": "person",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0772157832980156,
+                "top": 0.02118072472512722,
+                "right": 0.865793764591217,
+                "bottom": 0.9636650085449219
+              },
+              "timeOffset": "12.960s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0789036899805069,
+                "top": 0.023607417941093445,
+                "right": 0.8671854138374329,
+                "bottom": 0.9652753472328186
+              },
+              "timeOffset": "13.080s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.07890848070383072,
+                "top": 0.019561707973480225,
+                "right": 0.8671898245811462,
+                "bottom": 0.9612284898757935
+              },
+              "timeOffset": "13.200s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.09808207303285599,
+                "top": 0.02484695240855217,
+                "right": 0.8610360026359558,
+                "bottom": 0.9806429743766785
+              },
+              "timeOffset": "13.320s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.1030379980802536,
+                "top": 0.030676115304231644,
+                "right": 0.8641209006309509,
+                "bottom": 0.9862490296363831
+              },
+              "timeOffset": "13.440s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.10604753345251083,
+                "top": 0.034480929374694824,
+                "right": 0.8669954538345337,
+                "bottom": 0.990037739276886
+              },
+              "timeOffset": "13.560s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.10385698080062866,
+                "top": 0.017560891807079315,
+                "right": 0.8609734773635864,
+                "bottom": 0.991438090801239
+              },
+              "timeOffset": "13.680s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.10089245438575745,
+                "top": 0.010874524712562561,
+                "right": 0.8572050333023071,
+                "bottom": 0.9857934713363647
+              },
+              "timeOffset": "13.800s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.09936249256134033,
+                "top": 0.008960363455116749,
+                "right": 0.8556169867515564,
+                "bottom": 0.9839545488357544
+              },
+              "timeOffset": "13.920s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.08000431209802628,
+                "top": 0.004110005684196949,
+                "right": 0.8787229657173157,
+                "bottom": 0.9706315398216248
+              },
+              "timeOffset": "14.040s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.07935862988233566,
+                "top": 0.00013946706894785166,
+                "right": 0.8807174563407898,
+                "bottom": 0.9629274606704712
+              },
+              "timeOffset": "14.160s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.07870681583881378,
+                "top": -0.001447646296583116,
+                "right": 0.8802546858787537,
+                "bottom": 0.9572052359580994
+              },
+              "timeOffset": "14.280s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.09395314007997513,
+                "top": 0.04712630808353424,
+                "right": 0.8587928414344788,
+                "bottom": 0.9475650191307068
+              },
+              "timeOffset": "14.400s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.09278713911771774,
+                "top": 0.06143855303525925,
+                "right": 0.8547259569168091,
+                "bottom": 0.9575966000556946
+              },
+              "timeOffset": "14.520s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.09170126914978027,
+                "top": 0.0663573369383812,
+                "right": 0.8534358143806458,
+                "bottom": 0.962213933467865
+              },
+              "timeOffset": "14.640s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.09712071716785431,
+                "top": 0.02123967558145523,
+                "right": 0.8589497208595276,
+                "bottom": 0.9852434992790222
+              },
+              "timeOffset": "14.760s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.10030028223991394,
+                "top": 0.015936903655529022,
+                "right": 0.8620270490646362,
+                "bottom": 0.983695924282074
+              },
+              "timeOffset": "14.880s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.09967461973428726,
+                "top": 0.018714657053351402,
+                "right": 0.8613939881324768,
+                "bottom": 0.9867489337921143
+              },
+              "timeOffset": "15s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.07787710428237915,
+                "top": 0.0211854986846447,
+                "right": 0.8677634596824646,
+                "bottom": 0.9799358248710632
+              },
+              "timeOffset": "15.120s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0695863664150238,
+                "top": 0.020918766036629677,
+                "right": 0.8608838319778442,
+                "bottom": 0.9779925346374512
+              },
+              "timeOffset": "15.240s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.06146655231714249,
+                "top": 0.019664335995912552,
+                "right": 0.8528650403022766,
+                "bottom": 0.9766181111335754
+              },
+              "timeOffset": "15.360s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0423860140144825,
+                "top": 0.015879105776548386,
+                "right": 0.8612818717956543,
+                "bottom": 0.9782732129096985
+              },
+              "timeOffset": "15.480s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.03872182220220566,
+                "top": 0.013404637575149536,
+                "right": 0.8589324355125427,
+                "bottom": 0.975896954536438
+              },
+              "timeOffset": "15.600s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.035650379955768585,
+                "top": 0.012184971943497658,
+                "right": 0.8559555411338806,
+                "bottom": 0.9746844172477722
+              },
+              "timeOffset": "15.720s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.04962341487407684,
+                "top": 0.014012468047440052,
+                "right": 0.8535927534103394,
+                "bottom": 0.9553936123847961
+              },
+              "timeOffset": "15.840s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.05406336486339569,
+                "top": 0.00997055321931839,
+                "right": 0.8565230965614319,
+                "bottom": 0.9490372538566589
+              },
+              "timeOffset": "15.960s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "12.960s",
+            "endTimeOffset": "15.960s"
+          },
+          "confidence": 0.9928527474403381
+        },
+        {
+          "entity": {
+            "entityId": "/m/0jbk",
+            "description": "animal",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.08316579461097717,
+                "top": 0.009969651699066162,
+                "right": 0.8767516613006592,
+                "bottom": 0.997995138168335
+              },
+              "timeOffset": "12.960s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.08383065462112427,
+                "top": 0.0010305587202310562,
+                "right": 0.877101480960846,
+                "bottom": 0.9974825978279114
+              },
+              "timeOffset": "13.080s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.09206735342741013,
+                "top": 0.0002297436585649848,
+                "right": 0.8788954615592957,
+                "bottom": 0.9958263635635376
+              },
+              "timeOffset": "13.200s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.1069379672408104,
+                "top": 0.010558770969510078,
+                "right": 0.8778137564659119,
+                "bottom": 0.996070146560669
+              },
+              "timeOffset": "13.320s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0962364599108696,
+                "top": 0.0030451479833573103,
+                "right": 0.8705865740776062,
+                "bottom": 0.9947519302368164
+              },
+              "timeOffset": "13.440s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.09223271161317825,
+                "top": 0.005490603856742382,
+                "right": 0.8710741996765137,
+                "bottom": 0.9958795309066772
+              },
+              "timeOffset": "13.560s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.08917500823736191,
+                "top": 0.0022610423620790243,
+                "right": 0.8711816072463989,
+                "bottom": 0.9978510737419128
+              },
+              "timeOffset": "13.680s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.1023852527141571,
+                "top": 0.008596672676503658,
+                "right": 0.8702832460403442,
+                "bottom": 0.9935746788978577
+              },
+              "timeOffset": "13.800s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.09322235733270645,
+                "top": 0.002519408706575632,
+                "right": 0.8735760450363159,
+                "bottom": 0.9935510158538818
+              },
+              "timeOffset": "13.920s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.09076633304357529,
+                "top": 0.004478318616747856,
+                "right": 0.8727622628211975,
+                "bottom": 0.9939402937889099
+              },
+              "timeOffset": "14.040s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0848606526851654,
+                "top": 0.010270229540765285,
+                "right": 0.8694573640823364,
+                "bottom": 0.996219277381897
+              },
+              "timeOffset": "14.160s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.08710348606109619,
+                "top": 0.012846722267568111,
+                "right": 0.8670112490653992,
+                "bottom": 0.9955723285675049
+              },
+              "timeOffset": "14.280s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.09593739360570908,
+                "top": 0.008576230145990849,
+                "right": 0.8665139675140381,
+                "bottom": 0.9953135251998901
+              },
+              "timeOffset": "14.400s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.10090306401252747,
+                "top": 0.006864374037832022,
+                "right": 0.8680722713470459,
+                "bottom": 0.9931876063346863
+              },
+              "timeOffset": "14.520s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.10229966044425964,
+                "top": 0.006921085063368082,
+                "right": 0.8607282638549805,
+                "bottom": 0.9927210807800293
+              },
+              "timeOffset": "14.640s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0977720320224762,
+                "top": 0.008967126719653606,
+                "right": 0.8704633712768555,
+                "bottom": 0.9927682876586914
+              },
+              "timeOffset": "14.760s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.09218978881835938,
+                "top": 0.0073870145715773106,
+                "right": 0.873633861541748,
+                "bottom": 0.9970564246177673
+              },
+              "timeOffset": "14.880s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.08012624084949493,
+                "top": 0.007066002115607262,
+                "right": 0.8721312284469604,
+                "bottom": 0.9995855689048767
+              },
+              "timeOffset": "15s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.07408973574638367,
+                "top": 0.006493610795587301,
+                "right": 0.8658852577209473,
+                "bottom": 0.9940887689590454
+              },
+              "timeOffset": "15.120s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.06408704817295074,
+                "top": 0.012792007997632027,
+                "right": 0.8711115717887878,
+                "bottom": 0.9966261386871338
+              },
+              "timeOffset": "15.240s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.05640570446848869,
+                "top": 0.0065551577135920525,
+                "right": 0.8718127608299255,
+                "bottom": 0.9976562857627869
+              },
+              "timeOffset": "15.360s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.05730763077735901,
+                "top": 0.007933302782475948,
+                "right": 0.8708240985870361,
+                "bottom": 0.9988939762115479
+              },
+              "timeOffset": "15.480s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.05181184411048889,
+                "top": 0.010137739591300488,
+                "right": 0.8721768856048584,
+                "bottom": 0.9969301223754883
+              },
+              "timeOffset": "15.600s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.05020294710993767,
+                "top": 0.009249956347048283,
+                "right": 0.8727017641067505,
+                "bottom": 0.9982374906539917
+              },
+              "timeOffset": "15.720s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.053058918565511703,
+                "top": 0.010453066788613796,
+                "right": 0.8689413666725159,
+                "bottom": 0.9988121390342712
+              },
+              "timeOffset": "15.840s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.052625708281993866,
+                "top": 0.009940993040800095,
+                "right": 0.8698652386665344,
+                "bottom": 0.9987162947654724
+              },
+              "timeOffset": "15.960s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "12.960s",
+            "endTimeOffset": "15.960s"
+          },
+          "confidence": 0.7237635254859924
+        },
+        {
+          "entity": {
+            "entityId": "/m/0c9ph5",
+            "description": "flower",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2949819564819336,
+                "top": 0.41562941670417786,
+                "right": 0.5775004029273987,
+                "bottom": 0.7089272737503052
+              },
+              "timeOffset": "16.080s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.29407617449760437,
+                "top": 0.4140375256538391,
+                "right": 0.5755331516265869,
+                "bottom": 0.7081989049911499
+              },
+              "timeOffset": "16.200s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2937523126602173,
+                "top": 0.41389745473861694,
+                "right": 0.5750170946121216,
+                "bottom": 0.7083216905593872
+              },
+              "timeOffset": "16.320s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.29303327202796936,
+                "top": 0.413887619972229,
+                "right": 0.5742843151092529,
+                "bottom": 0.7083306312561035
+              },
+              "timeOffset": "16.440s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2922837436199188,
+                "top": 0.41480347514152527,
+                "right": 0.5746426582336426,
+                "bottom": 0.7075591683387756
+              },
+              "timeOffset": "16.560s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.29299136996269226,
+                "top": 0.4146021604537964,
+                "right": 0.5761759281158447,
+                "bottom": 0.7096397876739502
+              },
+              "timeOffset": "16.680s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.29301387071609497,
+                "top": 0.41453877091407776,
+                "right": 0.5755640268325806,
+                "bottom": 0.7131656408309937
+              },
+              "timeOffset": "16.800s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2936788499355316,
+                "top": 0.4158504009246826,
+                "right": 0.5752289295196533,
+                "bottom": 0.7113025188446045
+              },
+              "timeOffset": "16.920s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "16.080s",
+            "endTimeOffset": "16.920s"
+          },
+          "confidence": 0.5487565994262695
+        },
+        {
+          "entity": {
+            "entityId": "/m/015p6",
+            "description": "bird",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.740610659122467,
+                "top": 0.6268366575241089,
+                "right": 0.916538417339325,
+                "bottom": 0.9985255002975464
+              },
+              "timeOffset": "16.200s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.7406876683235168,
+                "top": 0.6280336380004883,
+                "right": 0.9158515930175781,
+                "bottom": 0.9982422590255737
+              },
+              "timeOffset": "16.320s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.736086905002594,
+                "top": 0.6189453601837158,
+                "right": 0.9192511439323425,
+                "bottom": 0.9967983961105347
+              },
+              "timeOffset": "16.440s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "16.200s",
+            "endTimeOffset": "16.440s"
+          },
+          "confidence": 0.5665191411972046
+        },
+        {
+          "entity": {
+            "entityId": "/m/0c9ph5",
+            "description": "flower",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.00040730834007263184,
+                "top": 0.08952530473470688,
+                "right": 0.32363906502723694,
+                "bottom": 0.4346284568309784
+              },
+              "timeOffset": "16.200s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0007806910434737802,
+                "top": 0.08888983726501465,
+                "right": 0.32421788573265076,
+                "bottom": 0.4333353340625763
+              },
+              "timeOffset": "16.320s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0007819563616067171,
+                "top": 0.08888744562864304,
+                "right": 0.3242194354534149,
+                "bottom": 0.4333319664001465
+              },
+              "timeOffset": "16.440s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0005931096384301782,
+                "top": 0.09091124683618546,
+                "right": 0.32369598746299744,
+                "bottom": 0.43677398562431335
+              },
+              "timeOffset": "16.560s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0007604721467941999,
+                "top": 0.09425058215856552,
+                "right": 0.3248864710330963,
+                "bottom": 0.43933895230293274
+              },
+              "timeOffset": "16.680s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0013411418767645955,
+                "top": 0.0961713045835495,
+                "right": 0.3255532383918762,
+                "bottom": 0.4406619668006897
+              },
+              "timeOffset": "16.800s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0018860079580917954,
+                "top": 0.0955672562122345,
+                "right": 0.32511642575263977,
+                "bottom": 0.4411810040473938
+              },
+              "timeOffset": "16.920s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "16.200s",
+            "endTimeOffset": "16.920s"
+          },
+          "confidence": 0.5371355414390564
+        },
+        {
+          "entity": {
+            "entityId": "/m/0c9ph5",
+            "description": "flower",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0012033432722091675,
+                "top": 0.37356504797935486,
+                "right": 0.329595685005188,
+                "bottom": 0.8798501491546631
+              },
+              "timeOffset": "16.560s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0024222438223659992,
+                "top": 0.3705150783061981,
+                "right": 0.3317379951477051,
+                "bottom": 0.8782099485397339
+              },
+              "timeOffset": "16.680s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0022314386442303658,
+                "top": 0.37406858801841736,
+                "right": 0.33449098467826843,
+                "bottom": 0.8817627429962158
+              },
+              "timeOffset": "16.800s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.001900754519738257,
+                "top": 0.37251099944114685,
+                "right": 0.33489447832107544,
+                "bottom": 0.8835831880569458
+              },
+              "timeOffset": "16.920s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0023817240726202726,
+                "top": 0.3736990690231323,
+                "right": 0.3352072238922119,
+                "bottom": 0.8848074078559875
+              },
+              "timeOffset": "17.040s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0025202566757798195,
+                "top": 0.37410953640937805,
+                "right": 0.3353336751461029,
+                "bottom": 0.8852205276489258
+              },
+              "timeOffset": "17.160s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0029835819732397795,
+                "top": 0.3722156584262848,
+                "right": 0.33557185530662537,
+                "bottom": 0.8861790895462036
+              },
+              "timeOffset": "17.280s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.003144185757264495,
+                "top": 0.37059348821640015,
+                "right": 0.3346126675605774,
+                "bottom": 0.8860928416252136
+              },
+              "timeOffset": "17.400s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.003018118441104889,
+                "top": 0.3697104752063751,
+                "right": 0.33702054619789124,
+                "bottom": 0.8872205018997192
+              },
+              "timeOffset": "17.520s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0036909340415149927,
+                "top": 0.3694395124912262,
+                "right": 0.3380391597747803,
+                "bottom": 0.8874558210372925
+              },
+              "timeOffset": "17.640s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.004079750739037991,
+                "top": 0.3694206774234772,
+                "right": 0.33845284581184387,
+                "bottom": 0.887473464012146
+              },
+              "timeOffset": "17.760s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.004194505047053099,
+                "top": 0.36942577362060547,
+                "right": 0.3385693430900574,
+                "bottom": 0.887481153011322
+              },
+              "timeOffset": "17.880s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.004164866171777248,
+                "top": 0.36943319439888,
+                "right": 0.33853986859321594,
+                "bottom": 0.8874887228012085
+              },
+              "timeOffset": "18s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.004084784537553787,
+                "top": 0.36943918466567993,
+                "right": 0.3384597897529602,
+                "bottom": 0.8874947428703308
+              },
+              "timeOffset": "18.120s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.004005541559308767,
+                "top": 0.36944296956062317,
+                "right": 0.3383805453777313,
+                "bottom": 0.8874984979629517
+              },
+              "timeOffset": "18.240s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.003947529010474682,
+                "top": 0.369444876909256,
+                "right": 0.3383225202560425,
+                "bottom": 0.8875004053115845
+              },
+              "timeOffset": "18.360s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0017892348114401102,
+                "top": 0.37261080741882324,
+                "right": 0.34159034490585327,
+                "bottom": 0.889062762260437
+              },
+              "timeOffset": "18.480s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.002207270124927163,
+                "top": 0.3727603256702423,
+                "right": 0.34204795956611633,
+                "bottom": 0.8894115686416626
+              },
+              "timeOffset": "18.600s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.003999446053057909,
+                "top": 0.3714008331298828,
+                "right": 0.3436466455459595,
+                "bottom": 0.8920982480049133
+              },
+              "timeOffset": "18.720s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0023538717068731785,
+                "top": 0.37239497900009155,
+                "right": 0.3460127115249634,
+                "bottom": 0.8959963321685791
+              },
+              "timeOffset": "18.840s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.001936269924044609,
+                "top": 0.3741535246372223,
+                "right": 0.346985787153244,
+                "bottom": 0.9042754173278809
+              },
+              "timeOffset": "18.960s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.003976014908403158,
+                "top": 0.3776973783969879,
+                "right": 0.3437107801437378,
+                "bottom": 0.8988412618637085
+              },
+              "timeOffset": "19.080s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0051889666356146336,
+                "top": 0.37808746099472046,
+                "right": 0.3416248559951782,
+                "bottom": 0.8990603685379028
+              },
+              "timeOffset": "19.200s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.005101311951875687,
+                "top": 0.37271812558174133,
+                "right": 0.3416929841041565,
+                "bottom": 0.9038424491882324
+              },
+              "timeOffset": "19.320s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.003666044445708394,
+                "top": 0.3772089183330536,
+                "right": 0.33961138129234314,
+                "bottom": 0.9023638963699341
+              },
+              "timeOffset": "19.440s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.00457981089130044,
+                "top": 0.37227416038513184,
+                "right": 0.3402578830718994,
+                "bottom": 0.9004457592964172
+              },
+              "timeOffset": "19.560s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.004847698844969273,
+                "top": 0.36958038806915283,
+                "right": 0.3377376198768616,
+                "bottom": 0.9055396318435669
+              },
+              "timeOffset": "19.680s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.005617894697934389,
+                "top": 0.37255552411079407,
+                "right": 0.33689653873443604,
+                "bottom": 0.9080435037612915
+              },
+              "timeOffset": "19.800s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "16.560s",
+            "endTimeOffset": "19.800s"
+          },
+          "confidence": 0.5558438301086426
+        },
+        {
+          "entity": {
+            "entityId": "/m/0c9ph5",
+            "description": "flower",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3576366603374481,
+                "top": 0.6468525528907776,
+                "right": 0.6781860589981079,
+                "bottom": 1.0
+              },
+              "timeOffset": "16.680s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3523613512516022,
+                "top": 0.6496253609657288,
+                "right": 0.678388237953186,
+                "bottom": 1.0
+              },
+              "timeOffset": "16.800s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.35233503580093384,
+                "top": 0.6499835848808289,
+                "right": 0.6781338453292847,
+                "bottom": 1.0000102519989014
+              },
+              "timeOffset": "16.920s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.35231924057006836,
+                "top": 0.6500293016433716,
+                "right": 0.6781017780303955,
+                "bottom": 1.0000312328338623
+              },
+              "timeOffset": "17.040s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.34518465399742126,
+                "top": 0.6509966254234314,
+                "right": 0.6790655851364136,
+                "bottom": 0.9999099969863892
+              },
+              "timeOffset": "17.160s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3442686200141907,
+                "top": 0.6513811349868774,
+                "right": 0.677882969379425,
+                "bottom": 1.0000139474868774
+              },
+              "timeOffset": "17.280s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.34344711899757385,
+                "top": 0.6514847874641418,
+                "right": 0.6770423650741577,
+                "bottom": 1.0000975131988525
+              },
+              "timeOffset": "17.400s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3455207943916321,
+                "top": 0.6500459313392639,
+                "right": 0.6760352849960327,
+                "bottom": 1.0004209280014038
+              },
+              "timeOffset": "17.520s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "16.680s",
+            "endTimeOffset": "17.520s"
+          },
+          "confidence": 0.5729708671569824
+        },
+        {
+          "entity": {
+            "entityId": "/m/01g317",
+            "description": "person",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.7266668677330017,
+                "top": 0.5580906271934509,
+                "right": 0.9551151990890503,
+                "bottom": 0.9863090515136719
+              },
+              "timeOffset": "17.280s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.7289028763771057,
+                "top": 0.5819081664085388,
+                "right": 0.9570283889770508,
+                "bottom": 0.9999796152114868
+              },
+              "timeOffset": "17.400s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.7258661389350891,
+                "top": 0.556492030620575,
+                "right": 0.953991174697876,
+                "bottom": 0.9835789203643799
+              },
+              "timeOffset": "17.520s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.7156175971031189,
+                "top": 0.5269339680671692,
+                "right": 0.9437426328659058,
+                "bottom": 0.9546618461608887
+              },
+              "timeOffset": "17.640s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.7051244378089905,
+                "top": 0.5320813655853271,
+                "right": 0.9332494735717773,
+                "bottom": 0.9598555564880371
+              },
+              "timeOffset": "17.760s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.6962189674377441,
+                "top": 0.521136462688446,
+                "right": 0.9243439435958862,
+                "bottom": 0.948910653591156
+              },
+              "timeOffset": "17.880s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.6990326046943665,
+                "top": 0.5237111449241638,
+                "right": 0.9384243488311768,
+                "bottom": 0.9715186357498169
+              },
+              "timeOffset": "18s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.694839596748352,
+                "top": 0.48200172185897827,
+                "right": 0.9455966949462891,
+                "bottom": 0.9526082873344421
+              },
+              "timeOffset": "18.120s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.7096956372261047,
+                "top": 0.46457985043525696,
+                "right": 0.9612091779708862,
+                "bottom": 0.9367039203643799
+              },
+              "timeOffset": "18.240s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.6438094973564148,
+                "top": 0.34185072779655457,
+                "right": 1.0068331956863403,
+                "bottom": 0.9865078926086426
+              },
+              "timeOffset": "18.360s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.6309536099433899,
+                "top": 0.3048376441001892,
+                "right": 0.9999841451644897,
+                "bottom": 0.9595546722412109
+              },
+              "timeOffset": "18.480s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.5976477861404419,
+                "top": 0.21348069608211517,
+                "right": 0.9671429991722107,
+                "bottom": 0.8689758777618408
+              },
+              "timeOffset": "18.600s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.5724865198135376,
+                "top": 0.012832649052143097,
+                "right": 0.9867124557495117,
+                "bottom": 0.9604163765907288
+              },
+              "timeOffset": "18.720s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.565617024898529,
+                "top": -0.01160894799977541,
+                "right": 0.982574462890625,
+                "bottom": 0.9458891749382019
+              },
+              "timeOffset": "18.840s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.5544073581695557,
+                "top": -0.029153794050216675,
+                "right": 0.9911571741104126,
+                "bottom": 0.9639264345169067
+              },
+              "timeOffset": "18.960s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.37787264585494995,
+                "top": -0.02312007173895836,
+                "right": 1.0383000373840332,
+                "bottom": 0.9763782620429993
+              },
+              "timeOffset": "19.080s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.32114115357398987,
+                "top": -0.0006209831917658448,
+                "right": 0.997268557548523,
+                "bottom": 0.9348917603492737
+              },
+              "timeOffset": "19.200s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.29191818833351135,
+                "top": 0.0006743420963175595,
+                "right": 0.9691762924194336,
+                "bottom": 0.9122127890586853
+              },
+              "timeOffset": "19.320s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "17.280s",
+            "endTimeOffset": "19.320s"
+          },
+          "confidence": 0.8124032020568848
+        },
+        {
+          "entity": {
+            "entityId": "/m/015p6",
+            "description": "bird",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.6896328926086426,
+                "top": 0.48849600553512573,
+                "right": 0.95502769947052,
+                "bottom": 0.9975045323371887
+              },
+              "timeOffset": "17.520s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.6828228235244751,
+                "top": 0.4680863916873932,
+                "right": 0.9484474658966064,
+                "bottom": 0.9764207601547241
+              },
+              "timeOffset": "17.640s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.6698866486549377,
+                "top": 0.48018157482147217,
+                "right": 0.935511589050293,
+                "bottom": 0.9885149598121643
+              },
+              "timeOffset": "17.760s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.6553093791007996,
+                "top": 0.47869548201560974,
+                "right": 0.9442770481109619,
+                "bottom": 0.9977627992630005
+              },
+              "timeOffset": "17.880s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.6474849581718445,
+                "top": 0.42903757095336914,
+                "right": 0.9495878219604492,
+                "bottom": 0.9729385375976562
+              },
+              "timeOffset": "18s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.6465027332305908,
+                "top": 0.38082456588745117,
+                "right": 0.9495598673820496,
+                "bottom": 0.926529586315155
+              },
+              "timeOffset": "18.120s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.641901969909668,
+                "top": 0.30067282915115356,
+                "right": 0.9846470355987549,
+                "bottom": 0.9838820099830627
+              },
+              "timeOffset": "18.240s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.6472158432006836,
+                "top": 0.27953651547431946,
+                "right": 0.9899609088897705,
+                "bottom": 0.9627456665039062
+              },
+              "timeOffset": "18.360s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.608005166053772,
+                "top": 0.21618428826332092,
+                "right": 1.002782940864563,
+                "bottom": 0.9953054189682007
+              },
+              "timeOffset": "18.480s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.6070162057876587,
+                "top": 0.11235782504081726,
+                "right": 0.9973116517066956,
+                "bottom": 1.0141828060150146
+              },
+              "timeOffset": "18.600s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.6044463515281677,
+                "top": 0.08355977386236191,
+                "right": 0.9947417974472046,
+                "bottom": 0.9853847026824951
+              },
+              "timeOffset": "18.720s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.55958491563797,
+                "top": 0.006655535660684109,
+                "right": 1.0023777484893799,
+                "bottom": 0.9936921000480652
+              },
+              "timeOffset": "18.840s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "17.520s",
+            "endTimeOffset": "18.840s"
+          },
+          "confidence": 0.6857974529266357
+        },
+        {
+          "entity": {
+            "entityId": "/m/06msq",
+            "description": "sculpture",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.5824265480041504,
+                "right": 0.9988247156143188,
+                "bottom": 1.0
+              },
+              "timeOffset": "18.720s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "18.720s",
+            "endTimeOffset": "18.720s"
+          },
+          "confidence": 0.5953373312950134
+        },
+        {
+          "entity": {
+            "entityId": "/m/0c9ph5",
+            "description": "flower",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.30160802602767944,
+                "top": 0.6241730451583862,
+                "right": 0.6808408498764038,
+                "bottom": 0.999595582485199
+              },
+              "timeOffset": "18.720s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.29740381240844727,
+                "top": 0.6110415458679199,
+                "right": 0.6763841509819031,
+                "bottom": 0.9999990463256836
+              },
+              "timeOffset": "18.840s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2919589579105377,
+                "top": 0.5925163626670837,
+                "right": 0.6777662038803101,
+                "bottom": 0.9988347291946411
+              },
+              "timeOffset": "18.960s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.29049772024154663,
+                "top": 0.5854877829551697,
+                "right": 0.6764257550239563,
+                "bottom": 0.9923867583274841
+              },
+              "timeOffset": "19.080s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3024301826953888,
+                "top": 0.5818576216697693,
+                "right": 0.6748889684677124,
+                "bottom": 0.9936306476593018
+              },
+              "timeOffset": "19.200s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2968401312828064,
+                "top": 0.5842408537864685,
+                "right": 0.6795239448547363,
+                "bottom": 0.9935650825500488
+              },
+              "timeOffset": "19.320s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2966342866420746,
+                "top": 0.5836406946182251,
+                "right": 0.6794375777244568,
+                "bottom": 0.9933344125747681
+              },
+              "timeOffset": "19.440s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2871350049972534,
+                "top": 0.5495032668113708,
+                "right": 0.6816262006759644,
+                "bottom": 1.0003583431243896
+              },
+              "timeOffset": "19.560s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2944376468658447,
+                "top": 0.5327395796775818,
+                "right": 0.6802495718002319,
+                "bottom": 0.9977389574050903
+              },
+              "timeOffset": "19.680s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "18.720s",
+            "endTimeOffset": "19.680s"
+          },
+          "confidence": 0.5767520666122437
+        },
+        {
+          "entity": {
+            "entityId": "/m/0c9ph5",
+            "description": "flower",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2993975281715393,
+                "top": 0.3966527581214905,
+                "right": 0.569909393787384,
+                "bottom": 0.7098177075386047
+              },
+              "timeOffset": "19.200s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2984389364719391,
+                "top": 0.3958345651626587,
+                "right": 0.5687516927719116,
+                "bottom": 0.7083356380462646
+              },
+              "timeOffset": "19.320s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2984359562397003,
+                "top": 0.3958316147327423,
+                "right": 0.5687484741210938,
+                "bottom": 0.7083317041397095
+              },
+              "timeOffset": "19.440s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2984364330768585,
+                "top": 0.3946802020072937,
+                "right": 0.568748950958252,
+                "bottom": 0.7071802020072937
+              },
+              "timeOffset": "19.560s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2984367609024048,
+                "top": 0.3933173418045044,
+                "right": 0.5687492489814758,
+                "bottom": 0.7058173418045044
+              },
+              "timeOffset": "19.680s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.29509857296943665,
+                "top": 0.4062768816947937,
+                "right": 0.5667881965637207,
+                "bottom": 0.6966730356216431
+              },
+              "timeOffset": "19.800s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "19.200s",
+            "endTimeOffset": "19.800s"
+          },
+          "confidence": 0.5369975566864014
+        },
+        {
+          "entity": {
+            "entityId": "/m/0c9ph5",
+            "description": "flower",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "top": 0.08201742172241211,
+                "right": 0.30939608812332153,
+                "bottom": 0.43501827120780945
+              },
+              "timeOffset": "19.560s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "19.560s",
+            "endTimeOffset": "19.560s"
+          },
+          "confidence": 0.6359212398529053
+        },
+        {
+          "entity": {
+            "entityId": "/m/0c9ph5",
+            "description": "flower",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.31501078605651855,
+                "top": 0.6144472360610962,
+                "right": 0.6879775524139404,
+                "bottom": 0.9996988773345947
+              },
+              "timeOffset": "21s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3203214704990387,
+                "top": 0.6172798275947571,
+                "right": 0.7005466222763062,
+                "bottom": 0.9973747134208679
+              },
+              "timeOffset": "21.120s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3266097605228424,
+                "top": 0.6031128168106079,
+                "right": 0.7263739705085754,
+                "bottom": 0.9743166565895081
+              },
+              "timeOffset": "21.240s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3370876610279083,
+                "top": 0.583670437335968,
+                "right": 0.7370705008506775,
+                "bottom": 0.9545307159423828
+              },
+              "timeOffset": "21.360s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3421086072921753,
+                "top": 0.5690491795539856,
+                "right": 0.7421073913574219,
+                "bottom": 0.9398844242095947
+              },
+              "timeOffset": "21.480s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.33390679955482483,
+                "top": 0.6105652451515198,
+                "right": 0.7493354082107544,
+                "bottom": 0.8470555543899536
+              },
+              "timeOffset": "21.600s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "21s",
+            "endTimeOffset": "21.600s"
+          },
+          "confidence": 0.6767679452896118
+        },
+        {
+          "entity": {
+            "entityId": "/m/0c9ph5",
+            "description": "flower",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.002123907208442688,
+                "top": 0.3886793851852417,
+                "right": 0.33073002099990845,
+                "bottom": 0.8787506818771362
+              },
+              "timeOffset": "21s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.003825613996013999,
+                "top": 0.40333011746406555,
+                "right": 0.34618473052978516,
+                "bottom": 0.8320045471191406
+              },
+              "timeOffset": "21.120s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.016910335049033165,
+                "top": 0.4014234244823456,
+                "right": 0.3591098189353943,
+                "bottom": 0.8305556774139404
+              },
+              "timeOffset": "21.240s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.023116672411561012,
+                "top": 0.39763253927230835,
+                "right": 0.3653050363063812,
+                "bottom": 0.8267967700958252
+              },
+              "timeOffset": "21.360s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.02287350967526436,
+                "top": 0.38644278049468994,
+                "right": 0.36506107449531555,
+                "bottom": 0.8156092762947083
+              },
+              "timeOffset": "21.480s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0077378773130476475,
+                "top": 0.26685649156570435,
+                "right": 0.43516525626182556,
+                "bottom": 0.7800367474555969
+              },
+              "timeOffset": "21.600s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "21s",
+            "endTimeOffset": "21.600s"
+          },
+          "confidence": 0.7049201726913452
+        },
+        {
+          "entity": {
+            "entityId": "/m/0c9ph5",
+            "description": "flower",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "top": 0.08146268129348755,
+                "right": 0.31152647733688354,
+                "bottom": 0.44280683994293213
+              },
+              "timeOffset": "21s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.007219166960567236,
+                "top": 0.051825590431690216,
+                "right": 0.3453269898891449,
+                "bottom": 0.4556814134120941
+              },
+              "timeOffset": "21.120s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "21s",
+            "endTimeOffset": "21.120s"
+          },
+          "confidence": 0.5480206608772278
+        },
+        {
+          "entity": {
+            "entityId": "/m/0c9ph5",
+            "description": "flower",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.303846538066864,
+                "top": 0.40184152126312256,
+                "right": 0.5978675484657288,
+                "bottom": 0.6974358558654785
+              },
+              "timeOffset": "21.120s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3093666434288025,
+                "top": 0.3889084756374359,
+                "right": 0.603117048740387,
+                "bottom": 0.6847413778305054
+              },
+              "timeOffset": "21.240s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.31394147872924805,
+                "top": 0.37941527366638184,
+                "right": 0.6076915264129639,
+                "bottom": 0.6752485632896423
+              },
+              "timeOffset": "21.360s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3186889588832855,
+                "top": 0.3695693612098694,
+                "right": 0.6124389171600342,
+                "bottom": 0.6654026508331299
+              },
+              "timeOffset": "21.480s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.36123424768447876,
+                "top": 0.34938791394233704,
+                "right": 0.6010444164276123,
+                "bottom": 0.6308220624923706
+              },
+              "timeOffset": "21.600s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "21.120s",
+            "endTimeOffset": "21.600s"
+          },
+          "confidence": 0.56121826171875
+        },
+        {
+          "entity": {
+            "entityId": "/m/0jbk",
+            "description": "animal",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.19519487023353577,
+                "top": 0.2361060082912445,
+                "right": 0.7689187526702881,
+                "bottom": 0.9083499908447266
+              },
+              "timeOffset": "21.720s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.19537661969661713,
+                "top": 0.23385071754455566,
+                "right": 0.7687227725982666,
+                "bottom": 0.9099311232566833
+              },
+              "timeOffset": "21.840s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2022480070590973,
+                "top": 0.23166003823280334,
+                "right": 0.7693171501159668,
+                "bottom": 0.9097045660018921
+              },
+              "timeOffset": "21.960s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.20594820380210876,
+                "top": 0.23312677443027496,
+                "right": 0.7698956727981567,
+                "bottom": 0.9091415405273438
+              },
+              "timeOffset": "22.080s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2050970196723938,
+                "top": 0.22989708185195923,
+                "right": 0.7696773409843445,
+                "bottom": 0.9096815586090088
+              },
+              "timeOffset": "22.200s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.206361785531044,
+                "top": 0.22928553819656372,
+                "right": 0.7701906561851501,
+                "bottom": 0.9085119962692261
+              },
+              "timeOffset": "22.320s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.20698457956314087,
+                "top": 0.22922955453395844,
+                "right": 0.7695915699005127,
+                "bottom": 0.9077036380767822
+              },
+              "timeOffset": "22.440s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.20779584348201752,
+                "top": 0.22720596194267273,
+                "right": 0.7699066400527954,
+                "bottom": 0.9074252843856812
+              },
+              "timeOffset": "22.560s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2100963145494461,
+                "top": 0.22578679025173187,
+                "right": 0.7692773938179016,
+                "bottom": 0.9080290198326111
+              },
+              "timeOffset": "22.680s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.20938873291015625,
+                "top": 0.2251349538564682,
+                "right": 0.7684161067008972,
+                "bottom": 0.9085866212844849
+              },
+              "timeOffset": "22.800s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.21311049163341522,
+                "top": 0.2259415090084076,
+                "right": 0.7684494256973267,
+                "bottom": 0.9077725410461426
+              },
+              "timeOffset": "22.920s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.20994076132774353,
+                "top": 0.22670097649097443,
+                "right": 0.7705219984054565,
+                "bottom": 0.9090196490287781
+              },
+              "timeOffset": "23.040s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.20272676646709442,
+                "top": 0.22504514455795288,
+                "right": 0.7729520201683044,
+                "bottom": 0.9100770354270935
+              },
+              "timeOffset": "23.160s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2064676731824875,
+                "top": 0.22594775259494781,
+                "right": 0.7684069871902466,
+                "bottom": 0.9092139005661011
+              },
+              "timeOffset": "23.280s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.20893603563308716,
+                "top": 0.22546148300170898,
+                "right": 0.7700711488723755,
+                "bottom": 0.9096964597702026
+              },
+              "timeOffset": "23.400s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2082693874835968,
+                "top": 0.22559265792369843,
+                "right": 0.7724881172180176,
+                "bottom": 0.9089215397834778
+              },
+              "timeOffset": "23.520s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "21.720s",
+            "endTimeOffset": "23.520s"
+          },
+          "confidence": 0.7943774461746216
+        },
+        {
+          "entity": {
+            "entityId": "/m/0jbk",
+            "description": "animal",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.5317336916923523,
+                "top": 0.32592129707336426,
+                "right": 0.6686978936195374,
+                "bottom": 0.591396689414978
+              },
+              "timeOffset": "23.640s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.5330394506454468,
+                "top": 0.3255728483200073,
+                "right": 0.670438289642334,
+                "bottom": 0.5916476845741272
+              },
+              "timeOffset": "23.760s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.531823992729187,
+                "top": 0.3254673480987549,
+                "right": 0.6692320108413696,
+                "bottom": 0.5910296440124512
+              },
+              "timeOffset": "23.880s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.5321763753890991,
+                "top": 0.325062096118927,
+                "right": 0.6702646017074585,
+                "bottom": 0.5916902422904968
+              },
+              "timeOffset": "24s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.5303616523742676,
+                "top": 0.3269083499908447,
+                "right": 0.6686686277389526,
+                "bottom": 0.5901187062263489
+              },
+              "timeOffset": "24.120s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.531794011592865,
+                "top": 0.3255266845226288,
+                "right": 0.6694158315658569,
+                "bottom": 0.5917807817459106
+              },
+              "timeOffset": "24.240s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.5323492288589478,
+                "top": 0.32531803846359253,
+                "right": 0.6692191958427429,
+                "bottom": 0.5918979644775391
+              },
+              "timeOffset": "24.360s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.5331757068634033,
+                "top": 0.3249838650226593,
+                "right": 0.6695864200592041,
+                "bottom": 0.5917494297027588
+              },
+              "timeOffset": "24.480s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.5332804322242737,
+                "top": 0.3257370889186859,
+                "right": 0.6695646643638611,
+                "bottom": 0.5910015106201172
+              },
+              "timeOffset": "24.600s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.5339069366455078,
+                "top": 0.32535651326179504,
+                "right": 0.6693332195281982,
+                "bottom": 0.5917568206787109
+              },
+              "timeOffset": "24.720s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.5331608057022095,
+                "top": 0.32537299394607544,
+                "right": 0.6696200370788574,
+                "bottom": 0.5912495851516724
+              },
+              "timeOffset": "24.840s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.5335368514060974,
+                "top": 0.3254773020744324,
+                "right": 0.6701329946517944,
+                "bottom": 0.5912105441093445
+              },
+              "timeOffset": "24.960s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.5334024429321289,
+                "top": 0.3254092335700989,
+                "right": 0.6698737144470215,
+                "bottom": 0.5908666849136353
+              },
+              "timeOffset": "25.080s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.5338680148124695,
+                "top": 0.32558634877204895,
+                "right": 0.6700167655944824,
+                "bottom": 0.5912200212478638
+              },
+              "timeOffset": "25.200s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.5337165594100952,
+                "top": 0.32567811012268066,
+                "right": 0.6696884632110596,
+                "bottom": 0.5915974974632263
+              },
+              "timeOffset": "25.320s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.5338972806930542,
+                "top": 0.32554641366004944,
+                "right": 0.6694403290748596,
+                "bottom": 0.5910242795944214
+              },
+              "timeOffset": "25.440s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.5340221524238586,
+                "top": 0.3258357644081116,
+                "right": 0.6696044206619263,
+                "bottom": 0.5911628007888794
+              },
+              "timeOffset": "25.560s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.5337513089179993,
+                "top": 0.32555416226387024,
+                "right": 0.6692849397659302,
+                "bottom": 0.5909678936004639
+              },
+              "timeOffset": "25.680s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "23.640s",
+            "endTimeOffset": "25.680s"
+          },
+          "confidence": 0.7031798958778381
+        },
+        {
+          "entity": {
+            "entityId": "/m/0c9ph5",
+            "description": "flower",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.713715672492981,
+                "top": 0.04429267346858978,
+                "right": 0.9952025413513184,
+                "bottom": 0.40749913454055786
+              },
+              "timeOffset": "23.640s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.714061975479126,
+                "top": 0.044444236904382706,
+                "right": 0.9953123331069946,
+                "bottom": 0.40833204984664917
+              },
+              "timeOffset": "23.760s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.7134361863136292,
+                "top": 0.05553203448653221,
+                "right": 0.9961015582084656,
+                "bottom": 0.4079763889312744
+              },
+              "timeOffset": "23.880s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.713312566280365,
+                "top": 0.05870785936713219,
+                "right": 0.9961146116256714,
+                "bottom": 0.4114619195461273
+              },
+              "timeOffset": "24s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.7133147120475769,
+                "top": 0.059256430715322495,
+                "right": 0.9966187477111816,
+                "bottom": 0.4099951982498169
+              },
+              "timeOffset": "24.120s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.7139502763748169,
+                "top": 0.046733174473047256,
+                "right": 0.9957159757614136,
+                "bottom": 0.41160833835601807
+              },
+              "timeOffset": "24.240s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.7138133645057678,
+                "top": 0.04306648671627045,
+                "right": 0.9955424070358276,
+                "bottom": 0.4088340997695923
+              },
+              "timeOffset": "24.360s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.7135916352272034,
+                "top": 0.04095836356282234,
+                "right": 0.9951825141906738,
+                "bottom": 0.4072856903076172
+              },
+              "timeOffset": "24.480s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.7135105133056641,
+                "top": 0.041140150278806686,
+                "right": 0.9950839281082153,
+                "bottom": 0.4064643681049347
+              },
+              "timeOffset": "24.600s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.713733434677124,
+                "top": 0.039149876683950424,
+                "right": 0.9949929118156433,
+                "bottom": 0.4069681763648987
+              },
+              "timeOffset": "24.720s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.7134209275245667,
+                "top": 0.040839783847332,
+                "right": 0.9952473044395447,
+                "bottom": 0.4061863124370575
+              },
+              "timeOffset": "24.840s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.7131686806678772,
+                "top": 0.04152246192097664,
+                "right": 0.9954513311386108,
+                "bottom": 0.40661895275115967
+              },
+              "timeOffset": "24.960s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.7133471369743347,
+                "top": 0.041686445474624634,
+                "right": 0.9951767921447754,
+                "bottom": 0.4067845046520233
+              },
+              "timeOffset": "25.080s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.7137035131454468,
+                "top": 0.041318174451589584,
+                "right": 0.99480801820755,
+                "bottom": 0.4070661962032318
+              },
+              "timeOffset": "25.200s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.713108479976654,
+                "top": 0.041667792946100235,
+                "right": 0.9952037334442139,
+                "bottom": 0.4073275327682495
+              },
+              "timeOffset": "25.320s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.7133596539497375,
+                "top": 0.04156118631362915,
+                "right": 0.9951759576797485,
+                "bottom": 0.4075969159603119
+              },
+              "timeOffset": "25.440s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.7131149172782898,
+                "top": 0.042096950113773346,
+                "right": 0.995381236076355,
+                "bottom": 0.4073462188243866
+              },
+              "timeOffset": "25.560s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.7126824855804443,
+                "top": 0.04211771488189697,
+                "right": 0.9950112700462341,
+                "bottom": 0.407410591840744
+              },
+              "timeOffset": "25.680s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "23.640s",
+            "endTimeOffset": "25.680s"
+          },
+          "confidence": 0.5281892418861389
+        },
+        {
+          "entity": {
+            "entityId": "/m/01g317",
+            "description": "person",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0018599446630105376,
+                "top": 0.019738387316465378,
+                "right": 0.48871755599975586,
+                "bottom": 0.9980974197387695
+              },
+              "timeOffset": "23.760s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0015629453118890524,
+                "top": 0.019444871693849564,
+                "right": 0.48828190565109253,
+                "bottom": 0.9972235560417175
+              },
+              "timeOffset": "23.880s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0015619582263752818,
+                "top": 0.019443562254309654,
+                "right": 0.4882807433605194,
+                "bottom": 0.9972214102745056
+              },
+              "timeOffset": "24s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": -0.000991720356978476,
+                "top": 0.01064416952431202,
+                "right": 0.5093726515769958,
+                "bottom": 0.9848789572715759
+              },
+              "timeOffset": "24.120s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0017422748496755958,
+                "top": 0.007221239618957043,
+                "right": 0.5133638978004456,
+                "bottom": 0.9808770418167114
+              },
+              "timeOffset": "24.240s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0027194060385227203,
+                "top": 0.00612837728112936,
+                "right": 0.5144311785697937,
+                "bottom": 0.979742705821991
+              },
+              "timeOffset": "24.360s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0012343074195086956,
+                "top": 0.012216142378747463,
+                "right": 0.5187469124794006,
+                "bottom": 0.9774022102355957
+              },
+              "timeOffset": "24.480s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0019286272581666708,
+                "top": 0.013000520877540112,
+                "right": 0.5191394090652466,
+                "bottom": 0.9769823551177979
+              },
+              "timeOffset": "24.600s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.002330702031031251,
+                "top": 0.01333070918917656,
+                "right": 0.5195198655128479,
+                "bottom": 0.9772262573242188
+              },
+              "timeOffset": "24.720s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.005343165714293718,
+                "top": 0.002367103472352028,
+                "right": 0.5053250193595886,
+                "bottom": 0.9960847496986389
+              },
+              "timeOffset": "24.840s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0035303106997162104,
+                "top": 0.0037356922402977943,
+                "right": 0.5020796060562134,
+                "bottom": 0.9994158744812012
+              },
+              "timeOffset": "24.960s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0028893528506159782,
+                "top": 0.004760697018355131,
+                "right": 0.5013348460197449,
+                "bottom": 1.0005830526351929
+              },
+              "timeOffset": "25.080s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0029886788688600063,
+                "top": 0.017511893063783646,
+                "right": 0.5128760933876038,
+                "bottom": 0.9843258857727051
+              },
+              "timeOffset": "25.200s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.006565290968865156,
+                "top": 0.01749933324754238,
+                "right": 0.51670241355896,
+                "bottom": 0.9815964698791504
+              },
+              "timeOffset": "25.320s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.008340705186128616,
+                "top": 0.016816599294543266,
+                "right": 0.5184956192970276,
+                "bottom": 0.9807204604148865
+              },
+              "timeOffset": "25.440s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.007562371902167797,
+                "top": 0.011423160322010517,
+                "right": 0.5289829969406128,
+                "bottom": 0.9802534580230713
+              },
+              "timeOffset": "25.560s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.009469538927078247,
+                "top": 0.01069908868521452,
+                "right": 0.5313118696212769,
+                "bottom": 0.9788103699684143
+              },
+              "timeOffset": "25.680s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "23.760s",
+            "endTimeOffset": "25.680s"
+          },
+          "confidence": 0.8700042963027954
+        },
+        {
+          "entity": {
+            "entityId": "/m/01yrx",
+            "description": "cat",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.002993836998939514,
+                "top": 0.007775396108627319,
+                "right": 0.47871577739715576,
+                "bottom": 0.9953384399414062
+              },
+              "timeOffset": "24.480s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.002647099085152149,
+                "top": 0.0033258108887821436,
+                "right": 0.47816935181617737,
+                "bottom": 0.9980261325836182
+              },
+              "timeOffset": "24.600s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0018213120056316257,
+                "top": 0.0014850242296233773,
+                "right": 0.47385236620903015,
+                "bottom": 0.9998573660850525
+              },
+              "timeOffset": "24.720s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0025364013854414225,
+                "top": 0.0036069985944777727,
+                "right": 0.4739198386669159,
+                "bottom": 0.9992538690567017
+              },
+              "timeOffset": "24.840s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.002386129694059491,
+                "top": 0.007753415498882532,
+                "right": 0.47865188121795654,
+                "bottom": 0.9938004016876221
+              },
+              "timeOffset": "24.960s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0031513108406215906,
+                "top": 0.007523456122726202,
+                "right": 0.47921085357666016,
+                "bottom": 0.9938024878501892
+              },
+              "timeOffset": "25.080s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0032022614032030106,
+                "top": 0.007241510786116123,
+                "right": 0.482154905796051,
+                "bottom": 0.992046058177948
+              },
+              "timeOffset": "25.200s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.00393866840749979,
+                "top": 0.0051035210490226746,
+                "right": 0.4831640422344208,
+                "bottom": 0.9957877397537231
+              },
+              "timeOffset": "25.320s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0044870381243526936,
+                "top": 0.005760943982750177,
+                "right": 0.48381513357162476,
+                "bottom": 0.9928032159805298
+              },
+              "timeOffset": "25.440s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0050189620815217495,
+                "top": 0.0032371170818805695,
+                "right": 0.4817945063114166,
+                "bottom": 0.9945740103721619
+              },
+              "timeOffset": "25.560s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.005000184290111065,
+                "top": 0.0039006939623504877,
+                "right": 0.4813674986362457,
+                "bottom": 0.9944819808006287
+              },
+              "timeOffset": "25.680s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "24.480s",
+            "endTimeOffset": "25.680s"
+          },
+          "confidence": 0.7012327313423157
+        },
+        {
+          "entity": {
+            "entityId": "/m/0c9ph5",
+            "description": "flower",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0769510567188263,
+                "top": 0.16896364092826843,
+                "right": 0.4358454644680023,
+                "bottom": 0.693585991859436
+              },
+              "timeOffset": "25.800s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.07723775506019592,
+                "top": 0.16187533736228943,
+                "right": 0.43351611495018005,
+                "bottom": 0.7032339572906494
+              },
+              "timeOffset": "25.920s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.08108171075582504,
+                "top": 0.19005180895328522,
+                "right": 0.43318554759025574,
+                "bottom": 0.6947588324546814
+              },
+              "timeOffset": "26.040s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.07566985487937927,
+                "top": 0.1727801412343979,
+                "right": 0.4263821244239807,
+                "bottom": 0.7068612575531006
+              },
+              "timeOffset": "26.160s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.07635757327079773,
+                "top": 0.1680487096309662,
+                "right": 0.4260443150997162,
+                "bottom": 0.7013391256332397
+              },
+              "timeOffset": "26.280s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.07503855973482132,
+                "top": 0.1791905015707016,
+                "right": 0.4256986975669861,
+                "bottom": 0.6885334253311157
+              },
+              "timeOffset": "26.400s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.07144057750701904,
+                "top": 0.15913423895835876,
+                "right": 0.42915210127830505,
+                "bottom": 0.7025482654571533
+              },
+              "timeOffset": "26.520s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.07036679983139038,
+                "top": 0.15846313536167145,
+                "right": 0.43221113085746765,
+                "bottom": 0.7042416334152222
+              },
+              "timeOffset": "26.640s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.051404908299446106,
+                "top": 0.1759769171476364,
+                "right": 0.4460158944129944,
+                "bottom": 0.6923043727874756
+              },
+              "timeOffset": "26.760s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.01898965984582901,
+                "top": 0.21249863505363464,
+                "right": 0.43778976798057556,
+                "bottom": 0.6973670721054077
+              },
+              "timeOffset": "26.880s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": -0.0034942456986755133,
+                "top": 0.22040234506130219,
+                "right": 0.41525930166244507,
+                "bottom": 0.7051348686218262
+              },
+              "timeOffset": "27s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.1975085735321045,
+                "top": 0.40860170125961304,
+                "right": 0.480632483959198,
+                "bottom": 0.6568243503570557
+              },
+              "timeOffset": "27.120s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "25.800s",
+            "endTimeOffset": "27.120s"
+          },
+          "confidence": 0.6825898289680481
+        },
+        {
+          "entity": {
+            "entityId": "/m/0c9ph5",
+            "description": "flower",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3484983742237091,
+                "top": 0.4868077039718628,
+                "right": 0.7072908878326416,
+                "bottom": 0.7975708246231079
+              },
+              "timeOffset": "25.800s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3431999981403351,
+                "top": 0.33447548747062683,
+                "right": 0.704187273979187,
+                "bottom": 0.8214863538742065
+              },
+              "timeOffset": "25.920s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3477424085140228,
+                "top": 0.3629022240638733,
+                "right": 0.7002034187316895,
+                "bottom": 0.8271318674087524
+              },
+              "timeOffset": "26.040s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3428695797920227,
+                "top": 0.38228023052215576,
+                "right": 0.6996046304702759,
+                "bottom": 0.8332072496414185
+              },
+              "timeOffset": "26.160s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3430265784263611,
+                "top": 0.37805891036987305,
+                "right": 0.6979258060455322,
+                "bottom": 0.8370552062988281
+              },
+              "timeOffset": "26.280s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3461199104785919,
+                "top": 0.3823835551738739,
+                "right": 0.6940778493881226,
+                "bottom": 0.8309363126754761
+              },
+              "timeOffset": "26.400s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3439614176750183,
+                "top": 0.3956550657749176,
+                "right": 0.6964869499206543,
+                "bottom": 0.8328520059585571
+              },
+              "timeOffset": "26.520s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.33727574348449707,
+                "top": 0.424728125333786,
+                "right": 0.7075028419494629,
+                "bottom": 0.834394097328186
+              },
+              "timeOffset": "26.640s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3181034326553345,
+                "top": 0.47212448716163635,
+                "right": 0.7137991189956665,
+                "bottom": 0.8817204236984253
+              },
+              "timeOffset": "26.760s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3401084542274475,
+                "top": 0.526495099067688,
+                "right": 0.7027615308761597,
+                "bottom": 0.8491485118865967
+              },
+              "timeOffset": "26.880s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3468005359172821,
+                "top": 0.5888140797615051,
+                "right": 0.6988613605499268,
+                "bottom": 0.8562895059585571
+              },
+              "timeOffset": "27s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.34296056628227234,
+                "top": 0.6117703914642334,
+                "right": 0.7059667110443115,
+                "bottom": 0.9075945615768433
+              },
+              "timeOffset": "27.120s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "25.800s",
+            "endTimeOffset": "27.120s"
+          },
+          "confidence": 0.6329733729362488
+        },
+        {
+          "entity": {
+            "entityId": "/m/01g317",
+            "description": "person",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.29582303762435913,
+                "right": 0.9389796257019043,
+                "bottom": 0.9984210133552551
+              },
+              "timeOffset": "27.360s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2984335422515869,
+                "top": 0.004160299897193909,
+                "right": 0.9414026141166687,
+                "bottom": 0.9999976754188538
+              },
+              "timeOffset": "27.480s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.2999609112739563,
+                "top": 0.005490988027304411,
+                "right": 0.9429296851158142,
+                "bottom": 1.0000349283218384
+              },
+              "timeOffset": "27.600s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "27.360s",
+            "endTimeOffset": "27.600s"
+          },
+          "confidence": 0.7669230103492737
+        },
+        {
+          "entity": {
+            "entityId": "/m/0jbk",
+            "description": "animal",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3387642204761505,
+                "right": 0.9875773191452026,
+                "bottom": 0.9608784914016724
+              },
+              "timeOffset": "27.720s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "27.720s",
+            "endTimeOffset": "27.720s"
+          },
+          "confidence": 0.6655825972557068
+        },
+        {
+          "entity": {
+            "entityId": "/m/0c9ph5",
+            "description": "flower",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.8353365063667297,
+                "top": 0.8250885605812073,
+                "right": 0.9306986927986145,
+                "bottom": 0.9893385767936707
+              },
+              "timeOffset": "27.840s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.8350169062614441,
+                "top": 0.8248918056488037,
+                "right": 0.9306161403656006,
+                "bottom": 0.9896354079246521
+              },
+              "timeOffset": "27.960s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.8346632122993469,
+                "top": 0.8254302740097046,
+                "right": 0.9310845136642456,
+                "bottom": 0.9907097220420837
+              },
+              "timeOffset": "28.080s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.8345847725868225,
+                "top": 0.828464686870575,
+                "right": 0.9308024644851685,
+                "bottom": 0.9922674298286438
+              },
+              "timeOffset": "28.200s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.8352684378623962,
+                "top": 0.8312884569168091,
+                "right": 0.9296945929527283,
+                "bottom": 0.9936593770980835
+              },
+              "timeOffset": "28.320s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.8357849717140198,
+                "top": 0.8320664763450623,
+                "right": 0.9291231036186218,
+                "bottom": 0.995258629322052
+              },
+              "timeOffset": "28.440s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "27.840s",
+            "endTimeOffset": "28.440s"
+          },
+          "confidence": 0.5859324932098389
+        },
+        {
+          "entity": {
+            "entityId": "/m/0c9ph5",
+            "description": "flower",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0007789880037307739,
+                "top": 0.27546238899230957,
+                "right": 0.20867642760276794,
+                "bottom": 0.9838482141494751
+              },
+              "timeOffset": "27.960s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.000987122766673565,
+                "top": 0.31871217489242554,
+                "right": 0.297470360994339,
+                "bottom": 0.9978945255279541
+              },
+              "timeOffset": "28.080s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.0009976639412343502,
+                "top": 0.43222495913505554,
+                "right": 0.334563285112381,
+                "bottom": 0.9688644409179688
+              },
+              "timeOffset": "28.200s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.009032453410327435,
+                "top": 0.4228101372718811,
+                "right": 0.34262433648109436,
+                "bottom": 0.9589563608169556
+              },
+              "timeOffset": "28.320s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.012385514564812183,
+                "top": 0.4249539375305176,
+                "right": 0.34597915410995483,
+                "bottom": 0.9610674977302551
+              },
+              "timeOffset": "28.440s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.04986514151096344,
+                "top": 0.22426635026931763,
+                "right": 0.3868510127067566,
+                "bottom": 0.9250067472457886
+              },
+              "timeOffset": "28.560s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.06662633270025253,
+                "top": 0.20168305933475494,
+                "right": 0.40336546301841736,
+                "bottom": 0.9030224084854126
+              },
+              "timeOffset": "28.680s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.07770659029483795,
+                "top": 0.1785423457622528,
+                "right": 0.3476119041442871,
+                "bottom": 0.907050371170044
+              },
+              "timeOffset": "28.800s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.06396280229091644,
+                "top": 0.23008999228477478,
+                "right": 0.3263664245605469,
+                "bottom": 0.8624904155731201
+              },
+              "timeOffset": "28.920s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.07154615968465805,
+                "top": 0.27003857493400574,
+                "right": 0.3352876901626587,
+                "bottom": 0.7973002195358276
+              },
+              "timeOffset": "29.040s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.10314441472291946,
+                "top": 0.2632613778114319,
+                "right": 0.36325404047966003,
+                "bottom": 0.7832794189453125
+              },
+              "timeOffset": "29.160s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.11995039135217667,
+                "top": 0.22797174751758575,
+                "right": 0.39265868067741394,
+                "bottom": 0.7804045081138611
+              },
+              "timeOffset": "29.280s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.11639425158500671,
+                "top": 0.11304285377264023,
+                "right": 0.4549393057823181,
+                "bottom": 0.8075048923492432
+              },
+              "timeOffset": "29.400s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.1304917186498642,
+                "top": 0.029680725187063217,
+                "right": 0.5283762812614441,
+                "bottom": 0.8139663338661194
+              },
+              "timeOffset": "29.520s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "27.960s",
+            "endTimeOffset": "29.520s"
+          },
+          "confidence": 0.6682773232460022
+        },
+        {
+          "entity": {
+            "entityId": "/m/0c9ph5",
+            "description": "flower",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3111046552658081,
+                "top": 0.6435769200325012,
+                "right": 0.501650869846344,
+                "bottom": 0.934779703617096
+              },
+              "timeOffset": "27.960s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.310937762260437,
+                "top": 0.643056333065033,
+                "right": 0.5015626549720764,
+                "bottom": 0.9347223043441772
+              },
+              "timeOffset": "28.080s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3137217164039612,
+                "top": 0.6474557518959045,
+                "right": 0.5000642538070679,
+                "bottom": 0.9357820153236389
+              },
+              "timeOffset": "28.200s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "27.960s",
+            "endTimeOffset": "28.200s"
+          },
+          "confidence": 0.5293084383010864
+        },
+        {
+          "entity": {
+            "entityId": "/m/0jbk",
+            "description": "animal",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.33235999941825867,
+                "top": 0.12072256207466125,
+                "right": 0.8059773445129395,
+                "bottom": 0.8080357313156128
+              },
+              "timeOffset": "28.320s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.33235999941825867,
+                "top": 0.12072256207466125,
+                "right": 0.8059773445129395,
+                "bottom": 0.8080357313156128
+              },
+              "timeOffset": "28.440s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3343723714351654,
+                "top": 0.12083321064710617,
+                "right": 0.8078101277351379,
+                "bottom": 0.8083329200744629
+              },
+              "timeOffset": "28.560s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.335137277841568,
+                "top": 0.12352435290813446,
+                "right": 0.8085747957229614,
+                "bottom": 0.8110243678092957
+              },
+              "timeOffset": "28.680s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.32524374127388,
+                "top": 0.12137452512979507,
+                "right": 0.8144998550415039,
+                "bottom": 0.8150811791419983
+              },
+              "timeOffset": "28.800s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3246684670448303,
+                "top": 0.12712319195270538,
+                "right": 0.8125905394554138,
+                "bottom": 0.8162933588027954
+              },
+              "timeOffset": "28.920s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.32359275221824646,
+                "top": 0.1296207308769226,
+                "right": 0.8115148544311523,
+                "bottom": 0.8187909126281738
+              },
+              "timeOffset": "29.040s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.33472082018852234,
+                "top": 0.15226422250270844,
+                "right": 0.7948270440101624,
+                "bottom": 0.8113779425621033
+              },
+              "timeOffset": "29.160s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3392210304737091,
+                "top": 0.14757829904556274,
+                "right": 0.7970073223114014,
+                "bottom": 0.8095752000808716
+              },
+              "timeOffset": "29.280s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "28.320s",
+            "endTimeOffset": "29.280s"
+          },
+          "confidence": 0.6842105984687805
+        },
+        {
+          "entity": {
+            "entityId": "/m/02dl1y",
+            "description": "hat",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.331449031829834,
+                "top": 0.11424875259399414,
+                "right": 0.813005268573761,
+                "bottom": 0.8047448992729187
+              },
+              "timeOffset": "28.440s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.33125030994415283,
+                "top": 0.11527621746063232,
+                "right": 0.8125007748603821,
+                "bottom": 0.8055543303489685
+              },
+              "timeOffset": "28.560s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.331249475479126,
+                "top": 0.11798050999641418,
+                "right": 0.8124995231628418,
+                "bottom": 0.8082582950592041
+              },
+              "timeOffset": "28.680s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.3312479257583618,
+                "top": 0.12060779333114624,
+                "right": 0.8124979734420776,
+                "bottom": 0.8108855485916138
+              },
+              "timeOffset": "28.800s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.33124634623527527,
+                "top": 0.1232350766658783,
+                "right": 0.8124963641166687,
+                "bottom": 0.8135128021240234
+              },
+              "timeOffset": "28.920s"
+            },
+            {
+              "normalizedBoundingBox": {
+                "left": 0.32288113236427307,
+                "top": 0.13921917974948883,
+                "right": 0.8002651929855347,
+                "bottom": 0.8194893002510071
+              },
+              "timeOffset": "29.040s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "28.440s",
+            "endTimeOffset": "29.040s"
+          },
+          "confidence": 0.5761457681655884
+        },
+        {
+          "entity": {
+            "entityId": "/m/0c9ph5",
+            "description": "flower",
+            "languageCode": "en-US"
+          },
+          "frames": [
+            {
+              "normalizedBoundingBox": {
+                "left": 0.8268669247627258,
+                "top": 0.877389669418335,
+                "right": 0.9236041903495789,
+                "bottom": 0.9983106255531311
+              },
+              "timeOffset": "29.520s"
+            }
+          ],
+          "segment": {
+            "startTimeOffset": "29.520s",
+            "endTimeOffset": "29.520s"
+          },
+          "confidence": 0.5587772727012634
+        }
+      ]
+    }
+  ]
+}
